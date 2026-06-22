@@ -1,0 +1,5257 @@
+[
+  {
+    "name": "Передний бампер",
+    "slug": "peredniy-bamper",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Задний бампер",
+    "slug": "zadniy-bamper",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Усилитель переднего бампера",
+    "slug": "usilitel-perednego-bampera",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Усилитель заднего бампера",
+    "slug": "usilitel-zadnego-bampera",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Крепление бампера",
+    "slug": "kreplenie-bampera",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Накладка бампера",
+    "slug": "nakladka-bampera",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Юбка бампера",
+    "slug": "yubka-bampera",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Диффузор бампера",
+    "slug": "diffuzor-bampera",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Спойлер бампера",
+    "slug": "spoyler-bampera",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Решётка радиатора",
+    "slug": "reshyotka-radiatora",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Нижняя решётка бампера",
+    "slug": "nizhnyaya-reshyotka-bampera",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Капот",
+    "slug": "kapot",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Петля капота",
+    "slug": "petlya-kapota",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Замок капота",
+    "slug": "zamok-kapota",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Трос капота",
+    "slug": "tros-kapota",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Амортизатор капота",
+    "slug": "amortizator-kapota",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Крыло переднее левое",
+    "slug": "krylo-perednee-levoe",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Крыло переднее правое",
+    "slug": "krylo-perednee-pravoe",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Крыло заднее левое",
+    "slug": "krylo-zadnee-levoe",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Крыло заднее правое",
+    "slug": "krylo-zadnee-pravoe",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Арка крыла",
+    "slug": "arka-kryla",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Расширитель арки",
+    "slug": "rasshiritel-arki",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Подкрылок",
+    "slug": "podkrylok",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Локер",
+    "slug": "loker",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Порог левый",
+    "slug": "porog-levyy",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Порог правый",
+    "slug": "porog-pravyy",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Накладка порога",
+    "slug": "nakladka-poroga",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Усилитель порога",
+    "slug": "usilitel-poroga",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Крыша",
+    "slug": "krysha",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Люк крыши",
+    "slug": "lyuk-kryshi",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Панорама",
+    "slug": "panorama",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Механизм люка",
+    "slug": "mekhanizm-lyuka",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Рейлинги",
+    "slug": "reylingi",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Стойка кузова передняя",
+    "slug": "stoyka-kuzova-perednyaya",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Стойка кузова средняя",
+    "slug": "stoyka-kuzova-srednyaya",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Стойка кузова задняя",
+    "slug": "stoyka-kuzova-zadnyaya",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Телевизор кузова",
+    "slug": "televizor-kuzova",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Передняя панель",
+    "slug": "perednyaya-panel",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Задняя панель",
+    "slug": "zadnyaya-panel",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Лонжерон",
+    "slug": "lonzheron",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Подрамник кузова",
+    "slug": "podramnik-kuzova",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Защита двигателя",
+    "slug": "zashchita-dvigatelya",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Защита картера",
+    "slug": "zashchita-kartera",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Защита КПП",
+    "slug": "zashchita-kpp",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Защита бака",
+    "slug": "zashchita-baka",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Брызговик",
+    "slug": "bryzgovik",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Молдинг двери",
+    "slug": "molding-dveri",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Молдинг крыла",
+    "slug": "molding-kryla",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Молдинг бампера",
+    "slug": "molding-bampera",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Накладка двери",
+    "slug": "nakladka-dveri",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Накладка крыла",
+    "slug": "nakladka-kryla",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Спойлер",
+    "slug": "spoyler",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Антикрыло",
+    "slug": "antikrylo",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Эмблема",
+    "slug": "emblema",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Шильдик",
+    "slug": "shildik",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Декоративная накладка",
+    "slug": "dekorativnaya-nakladka",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Крепёж кузова",
+    "slug": "krepyozh-kuzova",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Клипсы",
+    "slug": "klipsy",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Пистоны",
+    "slug": "pistony",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Болты кузовные",
+    "slug": "bolty-kuzovnye",
+    "categorySlug": "body",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Дверь передняя левая",
+    "slug": "dver-perednyaya-levaya",
+    "categorySlug": "doors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Дверь передняя правая",
+    "slug": "dver-perednyaya-pravaya",
+    "categorySlug": "doors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Дверь задняя левая",
+    "slug": "dver-zadnyaya-levaya",
+    "categorySlug": "doors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Дверь задняя правая",
+    "slug": "dver-zadnyaya-pravaya",
+    "categorySlug": "doors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Петля двери",
+    "slug": "petlya-dveri",
+    "categorySlug": "doors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Ограничитель двери",
+    "slug": "ogranichitel-dveri",
+    "categorySlug": "doors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Замок двери",
+    "slug": "zamok-dveri",
+    "categorySlug": "doors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Личинка замка",
+    "slug": "lichinka-zamka",
+    "categorySlug": "doors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Ручка двери наружная",
+    "slug": "ruchka-dveri-naruzhnaya",
+    "categorySlug": "doors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Ручка двери внутренняя",
+    "slug": "ruchka-dveri-vnutrennyaya",
+    "categorySlug": "doors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Тросик двери",
+    "slug": "trosik-dveri",
+    "categorySlug": "doors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Тяга замка двери",
+    "slug": "tyaga-zamka-dveri",
+    "categorySlug": "doors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Центральный замок",
+    "slug": "tsentralnyy-zamok",
+    "categorySlug": "doors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Активатор замка",
+    "slug": "aktivator-zamka",
+    "categorySlug": "doors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Доводчик двери",
+    "slug": "dovodchik-dveri",
+    "categorySlug": "doors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Уплотнитель двери",
+    "slug": "uplotnitel-dveri",
+    "categorySlug": "doors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Обшивка двери",
+    "slug": "obshivka-dveri",
+    "categorySlug": "doors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Карта двери",
+    "slug": "karta-dveri",
+    "categorySlug": "doors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Кнопка стеклоподъёмника",
+    "slug": "knopka-steklopodyomnika",
+    "categorySlug": "doors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Моторчик стеклоподъёмника",
+    "slug": "motorchik-steklopodyomnika",
+    "categorySlug": "doors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Стеклоподъёмник",
+    "slug": "steklopodyomnik",
+    "categorySlug": "doors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Направляющая стекла",
+    "slug": "napravlyayushchaya-stekla",
+    "categorySlug": "doors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Уплотнитель стекла",
+    "slug": "uplotnitel-stekla",
+    "categorySlug": "doors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Дверная проводка",
+    "slug": "dvernaya-provodka",
+    "categorySlug": "doors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Концевик двери",
+    "slug": "kontsevik-dveri",
+    "categorySlug": "doors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Крышка багажника",
+    "slug": "kryshka-bagazhnika",
+    "categorySlug": "trunk",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Дверь багажника",
+    "slug": "dver-bagazhnika",
+    "categorySlug": "trunk",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Петля багажника",
+    "slug": "petlya-bagazhnika",
+    "categorySlug": "trunk",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Замок багажника",
+    "slug": "zamok-bagazhnika",
+    "categorySlug": "trunk",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Ручка багажника",
+    "slug": "ruchka-bagazhnika",
+    "categorySlug": "trunk",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Амортизатор багажника",
+    "slug": "amortizator-bagazhnika",
+    "categorySlug": "trunk",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Обшивка багажника",
+    "slug": "obshivka-bagazhnika",
+    "categorySlug": "trunk",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Пол багажника",
+    "slug": "pol-bagazhnika",
+    "categorySlug": "trunk",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Коврик багажника",
+    "slug": "kovrik-bagazhnika",
+    "categorySlug": "trunk",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Полка багажника",
+    "slug": "polka-bagazhnika",
+    "categorySlug": "trunk",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Органайзер багажника",
+    "slug": "organayzer-bagazhnika",
+    "categorySlug": "trunk",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Кнопка открытия багажника",
+    "slug": "knopka-otkrytiya-bagazhnika",
+    "categorySlug": "trunk",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Электропривод багажника",
+    "slug": "elektroprivod-bagazhnika",
+    "categorySlug": "trunk",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Доводчик багажника",
+    "slug": "dovodchik-bagazhnika",
+    "categorySlug": "trunk",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Фара передняя левая",
+    "slug": "fara-perednyaya-levaya",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Фара передняя правая",
+    "slug": "fara-perednyaya-pravaya",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Галогенная фара",
+    "slug": "galogennaya-fara",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "LED фара",
+    "slug": "led-fara",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Ксеноновая фара",
+    "slug": "ksenonovaya-fara",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Лазерная фара",
+    "slug": "lazernaya-fara",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Блок фары",
+    "slug": "blok-fary",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Корпус фары",
+    "slug": "korpus-fary",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Стекло фары",
+    "slug": "steklo-fary",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Линза фары",
+    "slug": "linza-fary",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Отражатель фары",
+    "slug": "otrazhatel-fary",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Блок розжига ксенона",
+    "slug": "blok-rozzhiga-ksenona",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Блок управления фарой",
+    "slug": "blok-upravleniya-faroy",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Корректор фары",
+    "slug": "korrektor-fary",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Моторчик корректора фары",
+    "slug": "motorchik-korrektora-fary",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Дневные ходовые огни",
+    "slug": "dnevnye-khodovye-ogni",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "ДХО",
+    "slug": "dkho",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Противотуманная фара",
+    "slug": "protivotumannaya-fara",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": [
+      "птф",
+      "туманка"
+    ]
+  },
+  {
+    "name": "Туманка",
+    "slug": "tumanka",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Задний фонарь левый",
+    "slug": "zadniy-fonar-levyy",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Задний фонарь правый",
+    "slug": "zadniy-fonar-pravyy",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Внутренний задний фонарь",
+    "slug": "vnutrenniy-zadniy-fonar",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Наружный задний фонарь",
+    "slug": "naruzhnyy-zadniy-fonar",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Стоп-сигнал",
+    "slug": "stop-signal",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Дополнительный стоп-сигнал",
+    "slug": "dopolnitelnyy-stop-signal",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Поворотник",
+    "slug": "povorotnik",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Повторитель поворота",
+    "slug": "povtoritel-povorota",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Подсветка номера",
+    "slug": "podsvetka-nomera",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Плафон салона",
+    "slug": "plafon-salona",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Плафон багажника",
+    "slug": "plafon-bagazhnika",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Лампочка ближнего света",
+    "slug": "lampochka-blizhnego-sveta",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Лампочка дальнего света",
+    "slug": "lampochka-dalnego-sveta",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Лампочка поворотника",
+    "slug": "lampochka-povorotnika",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Лампочка стопа",
+    "slug": "lampochka-stopa",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Лампочка заднего хода",
+    "slug": "lampochka-zadnego-khoda",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Лампочка габарита",
+    "slug": "lampochka-gabarita",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Лампочка салона",
+    "slug": "lampochka-salona",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "LED лампа",
+    "slug": "led-lampa",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Ксеноновая лампа",
+    "slug": "ksenonovaya-lampa",
+    "categorySlug": "lights",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Лобовое стекло",
+    "slug": "lobovoe-steklo",
+    "categorySlug": "glass-mirrors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Заднее стекло",
+    "slug": "zadnee-steklo",
+    "categorySlug": "glass-mirrors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Стекло двери переднее левое",
+    "slug": "steklo-dveri-perednee-levoe",
+    "categorySlug": "glass-mirrors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Стекло двери переднее правое",
+    "slug": "steklo-dveri-perednee-pravoe",
+    "categorySlug": "glass-mirrors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Стекло двери заднее левое",
+    "slug": "steklo-dveri-zadnee-levoe",
+    "categorySlug": "glass-mirrors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Стекло двери заднее правое",
+    "slug": "steklo-dveri-zadnee-pravoe",
+    "categorySlug": "glass-mirrors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Форточка",
+    "slug": "fortochka",
+    "categorySlug": "glass-mirrors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Стекло люка",
+    "slug": "steklo-lyuka",
+    "categorySlug": "glass-mirrors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Панорамное стекло",
+    "slug": "panoramnoe-steklo",
+    "categorySlug": "glass-mirrors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Зеркало боковое левое",
+    "slug": "zerkalo-bokovoe-levoe",
+    "categorySlug": "glass-mirrors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Зеркало боковое правое",
+    "slug": "zerkalo-bokovoe-pravoe",
+    "categorySlug": "glass-mirrors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Зеркальный элемент",
+    "slug": "zerkalnyy-element",
+    "categorySlug": "glass-mirrors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Корпус зеркала",
+    "slug": "korpus-zerkala",
+    "categorySlug": "glass-mirrors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Крышка зеркала",
+    "slug": "kryshka-zerkala",
+    "categorySlug": "glass-mirrors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Моторчик зеркала",
+    "slug": "motorchik-zerkala",
+    "categorySlug": "glass-mirrors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Повторитель в зеркале",
+    "slug": "povtoritel-v-zerkale",
+    "categorySlug": "glass-mirrors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Обогрев зеркала",
+    "slug": "obogrev-zerkala",
+    "categorySlug": "glass-mirrors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Складной механизм зеркала",
+    "slug": "skladnoy-mekhanizm-zerkala",
+    "categorySlug": "glass-mirrors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Зеркало салона",
+    "slug": "zerkalo-salona",
+    "categorySlug": "glass-mirrors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Зеркало с камерой",
+    "slug": "zerkalo-s-kameroy",
+    "categorySlug": "glass-mirrors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Зеркало с автозатемнением",
+    "slug": "zerkalo-s-avtozatemneniem",
+    "categorySlug": "glass-mirrors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик дождя",
+    "slug": "datchik-dozhdya",
+    "categorySlug": "glass-mirrors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик света",
+    "slug": "datchik-sveta",
+    "categorySlug": "glass-mirrors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Щётки дворников",
+    "slug": "shchyotki-dvornikov",
+    "categorySlug": "wipers",
+    "subcategory": null,
+    "synonyms": [
+      "дворники",
+      "щётки стеклоочистителя"
+    ]
+  },
+  {
+    "name": "Дворники",
+    "slug": "dvorniki",
+    "categorySlug": "wipers",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Поводок дворника",
+    "slug": "povodok-dvornika",
+    "categorySlug": "wipers",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Трапеция дворников",
+    "slug": "trapetsiya-dvornikov",
+    "categorySlug": "wipers",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Моторчик дворников",
+    "slug": "motorchik-dvornikov",
+    "categorySlug": "wipers",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Реле дворников",
+    "slug": "rele-dvornikov",
+    "categorySlug": "wipers",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Бачок омывателя",
+    "slug": "bachok-omyvatelya",
+    "categorySlug": "wipers",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Насос омывателя",
+    "slug": "nasos-omyvatelya",
+    "categorySlug": "wipers",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Моторчик омывателя",
+    "slug": "motorchik-omyvatelya",
+    "categorySlug": "wipers",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Форсунка омывателя",
+    "slug": "forsunka-omyvatelya",
+    "categorySlug": "wipers",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Шланг омывателя",
+    "slug": "shlang-omyvatelya",
+    "categorySlug": "wipers",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Крышка бачка омывателя",
+    "slug": "kryshka-bachka-omyvatelya",
+    "categorySlug": "wipers",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Омыватель фар",
+    "slug": "omyvatel-far",
+    "categorySlug": "wipers",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Форсунка омывателя фар",
+    "slug": "forsunka-omyvatelya-far",
+    "categorySlug": "wipers",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Насос омывателя фар",
+    "slug": "nasos-omyvatelya-far",
+    "categorySlug": "wipers",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Амортизатор передний",
+    "slug": "amortizator-peredniy",
+    "categorySlug": "suspension",
+    "subcategory": "Передняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Стойка передняя",
+    "slug": "stoyka-perednyaya",
+    "categorySlug": "suspension",
+    "subcategory": "Передняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Пружина передняя",
+    "slug": "pruzhina-perednyaya",
+    "categorySlug": "suspension",
+    "subcategory": "Передняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Опора стойки",
+    "slug": "opora-stoyki",
+    "categorySlug": "suspension",
+    "subcategory": "Передняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Опорный подшипник",
+    "slug": "opornyy-podshipnik",
+    "categorySlug": "suspension",
+    "subcategory": "Передняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Пыльник амортизатора",
+    "slug": "pylnik-amortizatora",
+    "categorySlug": "suspension",
+    "subcategory": "Передняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Отбойник амортизатора",
+    "slug": "otboynik-amortizatora",
+    "categorySlug": "suspension",
+    "subcategory": "Передняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Рычаг передний нижний",
+    "slug": "rychag-peredniy-nizhniy",
+    "categorySlug": "suspension",
+    "subcategory": "Передняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Рычаг передний верхний",
+    "slug": "rychag-peredniy-verkhniy",
+    "categorySlug": "suspension",
+    "subcategory": "Передняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Сайлентблок рычага",
+    "slug": "saylentblok-rychaga",
+    "categorySlug": "suspension",
+    "subcategory": "Передняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Шаровая опора",
+    "slug": "sharovaya-opora",
+    "categorySlug": "suspension",
+    "subcategory": "Передняя подвеска",
+    "synonyms": [
+      "шаровая",
+      "шаровой"
+    ]
+  },
+  {
+    "name": "Стабилизатор передний",
+    "slug": "stabilizator-peredniy",
+    "categorySlug": "suspension",
+    "subcategory": "Передняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Стойка стабилизатора",
+    "slug": "stoyka-stabilizatora",
+    "categorySlug": "suspension",
+    "subcategory": "Передняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Втулка стабилизатора",
+    "slug": "vtulka-stabilizatora",
+    "categorySlug": "suspension",
+    "subcategory": "Передняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Кулак поворотный",
+    "slug": "kulak-povorotnyy",
+    "categorySlug": "suspension",
+    "subcategory": "Передняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Цапфа",
+    "slug": "tsapfa",
+    "categorySlug": "suspension",
+    "subcategory": "Передняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Ступица передняя",
+    "slug": "stupitsa-perednyaya",
+    "categorySlug": "suspension",
+    "subcategory": "Передняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Подшипник ступицы",
+    "slug": "podshipnik-stupitsy",
+    "categorySlug": "suspension",
+    "subcategory": "Передняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Подрамник передний",
+    "slug": "podramnik-peredniy",
+    "categorySlug": "suspension",
+    "subcategory": "Передняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Амортизатор задний",
+    "slug": "amortizator-zadniy",
+    "categorySlug": "suspension",
+    "subcategory": "Задняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Стойка задняя",
+    "slug": "stoyka-zadnyaya",
+    "categorySlug": "suspension",
+    "subcategory": "Задняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Пружина задняя",
+    "slug": "pruzhina-zadnyaya",
+    "categorySlug": "suspension",
+    "subcategory": "Задняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Рычаг задний",
+    "slug": "rychag-zadniy",
+    "categorySlug": "suspension",
+    "subcategory": "Задняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Поперечный рычаг",
+    "slug": "poperechnyy-rychag",
+    "categorySlug": "suspension",
+    "subcategory": "Задняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Продольный рычаг",
+    "slug": "prodolnyy-rychag",
+    "categorySlug": "suspension",
+    "subcategory": "Задняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Сайлентблок задней балки",
+    "slug": "saylentblok-zadney-balki",
+    "categorySlug": "suspension",
+    "subcategory": "Задняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Балка задняя",
+    "slug": "balka-zadnyaya",
+    "categorySlug": "suspension",
+    "subcategory": "Задняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Стабилизатор задний",
+    "slug": "stabilizator-zadniy",
+    "categorySlug": "suspension",
+    "subcategory": "Задняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Стойка стабилизатора задняя",
+    "slug": "stoyka-stabilizatora-zadnyaya",
+    "categorySlug": "suspension",
+    "subcategory": "Задняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Втулка стабилизатора задняя",
+    "slug": "vtulka-stabilizatora-zadnyaya",
+    "categorySlug": "suspension",
+    "subcategory": "Задняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Ступица задняя",
+    "slug": "stupitsa-zadnyaya",
+    "categorySlug": "suspension",
+    "subcategory": "Задняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Подшипник задней ступицы",
+    "slug": "podshipnik-zadney-stupitsy",
+    "categorySlug": "suspension",
+    "subcategory": "Задняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Подрамник задний",
+    "slug": "podramnik-zadniy",
+    "categorySlug": "suspension",
+    "subcategory": "Задняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Пневмобаллон",
+    "slug": "pnevmoballon",
+    "categorySlug": "suspension",
+    "subcategory": "Задняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Пневмостойка",
+    "slug": "pnevmostoyka",
+    "categorySlug": "suspension",
+    "subcategory": "Задняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Компрессор пневмоподвески",
+    "slug": "kompressor-pnevmopodveski",
+    "categorySlug": "suspension",
+    "subcategory": "Задняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Датчик уровня кузова",
+    "slug": "datchik-urovnya-kuzova",
+    "categorySlug": "suspension",
+    "subcategory": "Задняя подвеска",
+    "synonyms": []
+  },
+  {
+    "name": "Рулевая рейка",
+    "slug": "rulevaya-reyka",
+    "categorySlug": "steering",
+    "subcategory": null,
+    "synonyms": [
+      "рейка"
+    ]
+  },
+  {
+    "name": "Электрическая рулевая рейка",
+    "slug": "elektricheskaya-rulevaya-reyka",
+    "categorySlug": "steering",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Гидравлическая рулевая рейка",
+    "slug": "gidravlicheskaya-rulevaya-reyka",
+    "categorySlug": "steering",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Рулевая тяга",
+    "slug": "rulevaya-tyaga",
+    "categorySlug": "steering",
+    "subcategory": null,
+    "synonyms": [
+      "тяга"
+    ]
+  },
+  {
+    "name": "Рулевой наконечник",
+    "slug": "rulevoy-nakonechnik",
+    "categorySlug": "steering",
+    "subcategory": null,
+    "synonyms": [
+      "наконечник"
+    ]
+  },
+  {
+    "name": "Пыльник рулевой рейки",
+    "slug": "pylnik-rulevoy-reyki",
+    "categorySlug": "steering",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Насос ГУР",
+    "slug": "nasos-gur",
+    "categorySlug": "steering",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Бачок ГУР",
+    "slug": "bachok-gur",
+    "categorySlug": "steering",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Шланг ГУР",
+    "slug": "shlang-gur",
+    "categorySlug": "steering",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Жидкость ГУР",
+    "slug": "zhidkost-gur",
+    "categorySlug": "steering",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Электроусилитель руля",
+    "slug": "elektrousilitel-rulya",
+    "categorySlug": "steering",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Рулевая колонка",
+    "slug": "rulevaya-kolonka",
+    "categorySlug": "steering",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Рулевой карданчик",
+    "slug": "rulevoy-kardanchik",
+    "categorySlug": "steering",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Рулевой вал",
+    "slug": "rulevoy-val",
+    "categorySlug": "steering",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Шлейф руля",
+    "slug": "shleyf-rulya",
+    "categorySlug": "steering",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Руль",
+    "slug": "rul",
+    "categorySlug": "steering",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Airbag руля",
+    "slug": "airbag-rulya",
+    "categorySlug": "steering",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Кнопки руля",
+    "slug": "knopki-rulya",
+    "categorySlug": "steering",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Подрулевой переключатель",
+    "slug": "podrulevoy-pereklyuchatel",
+    "categorySlug": "steering",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик угла поворота руля",
+    "slug": "datchik-ugla-povorota-rulya",
+    "categorySlug": "steering",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Тормозные колодки передние",
+    "slug": "tormoznye-kolodki-perednie",
+    "categorySlug": "brakes",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Тормозные колодки задние",
+    "slug": "tormoznye-kolodki-zadnie",
+    "categorySlug": "brakes",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Тормозной диск передний",
+    "slug": "tormoznoy-disk-peredniy",
+    "categorySlug": "brakes",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Тормозной диск задний",
+    "slug": "tormoznoy-disk-zadniy",
+    "categorySlug": "brakes",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Тормозной барабан",
+    "slug": "tormoznoy-baraban",
+    "categorySlug": "brakes",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Тормозной суппорт",
+    "slug": "tormoznoy-support",
+    "categorySlug": "brakes",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Ремкомплект суппорта",
+    "slug": "remkomplekt-supporta",
+    "categorySlug": "brakes",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Направляющие суппорта",
+    "slug": "napravlyayushchie-supporta",
+    "categorySlug": "brakes",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Пыльник суппорта",
+    "slug": "pylnik-supporta",
+    "categorySlug": "brakes",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Тормозной цилиндр",
+    "slug": "tormoznoy-tsilindr",
+    "categorySlug": "brakes",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Главный тормозной цилиндр",
+    "slug": "glavnyy-tormoznoy-tsilindr",
+    "categorySlug": "brakes",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Рабочий тормозной цилиндр",
+    "slug": "rabochiy-tormoznoy-tsilindr",
+    "categorySlug": "brakes",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Вакуумный усилитель тормозов",
+    "slug": "vakuumnyy-usilitel-tormozov",
+    "categorySlug": "brakes",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Тормозной шланг",
+    "slug": "tormoznoy-shlang",
+    "categorySlug": "brakes",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Тормозная трубка",
+    "slug": "tormoznaya-trubka",
+    "categorySlug": "brakes",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Тормозная жидкость",
+    "slug": "tormoznaya-zhidkost",
+    "categorySlug": "brakes",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Трос ручника",
+    "slug": "tros-ruchnika",
+    "categorySlug": "brakes",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Ручник",
+    "slug": "ruchnik",
+    "categorySlug": "brakes",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Электронный ручник",
+    "slug": "elektronnyy-ruchnik",
+    "categorySlug": "brakes",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Моторчик ручника",
+    "slug": "motorchik-ruchnika",
+    "categorySlug": "brakes",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Колодки ручника",
+    "slug": "kolodki-ruchnika",
+    "categorySlug": "brakes",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик износа колодок",
+    "slug": "datchik-iznosa-kolodok",
+    "categorySlug": "brakes",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик ABS",
+    "slug": "datchik-abs",
+    "categorySlug": "brakes",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Блок ABS",
+    "slug": "blok-abs",
+    "categorySlug": "brakes",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Гидроблок ABS",
+    "slug": "gidroblok-abs",
+    "categorySlug": "brakes",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Блок ESP",
+    "slug": "blok-esp",
+    "categorySlug": "brakes",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик ESP",
+    "slug": "datchik-esp",
+    "categorySlug": "brakes",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик скорости колеса",
+    "slug": "datchik-skorosti-kolesa",
+    "categorySlug": "brakes",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Двигатель в сборе",
+    "slug": "dvigatel-v-sbore",
+    "categorySlug": "engine",
+    "subcategory": "Основные детали двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Блок двигателя",
+    "slug": "blok-dvigatelya",
+    "categorySlug": "engine",
+    "subcategory": "Основные детали двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Головка блока цилиндров",
+    "slug": "golovka-bloka-tsilindrov",
+    "categorySlug": "engine",
+    "subcategory": "Основные детали двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "ГБЦ",
+    "slug": "gbts",
+    "categorySlug": "engine",
+    "subcategory": "Основные детали двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Клапанная крышка",
+    "slug": "klapannaya-kryshka",
+    "categorySlug": "engine",
+    "subcategory": "Основные детали двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Прокладка клапанной крышки",
+    "slug": "prokladka-klapannoy-kryshki",
+    "categorySlug": "engine",
+    "subcategory": "Основные детали двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Прокладка ГБЦ",
+    "slug": "prokladka-gbts",
+    "categorySlug": "engine",
+    "subcategory": "Основные детали двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Масляный поддон",
+    "slug": "maslyanyy-poddon",
+    "categorySlug": "engine",
+    "subcategory": "Основные детали двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Прокладка поддона",
+    "slug": "prokladka-poddona",
+    "categorySlug": "engine",
+    "subcategory": "Основные детали двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Масляный насос",
+    "slug": "maslyanyy-nasos",
+    "categorySlug": "engine",
+    "subcategory": "Основные детали двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Масляный щуп",
+    "slug": "maslyanyy-shchup",
+    "categorySlug": "engine",
+    "subcategory": "Основные детали двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Крышка маслозаливной горловины",
+    "slug": "kryshka-maslozalivnoy-gorloviny",
+    "categorySlug": "engine",
+    "subcategory": "Основные детали двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Поршень",
+    "slug": "porshen",
+    "categorySlug": "engine",
+    "subcategory": "Основные детали двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Поршневые кольца",
+    "slug": "porshnevye-koltsa",
+    "categorySlug": "engine",
+    "subcategory": "Основные детали двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Шатун",
+    "slug": "shatun",
+    "categorySlug": "engine",
+    "subcategory": "Основные детали двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Вкладыши шатунные",
+    "slug": "vkladyshi-shatunnye",
+    "categorySlug": "engine",
+    "subcategory": "Основные детали двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Вкладыши коренные",
+    "slug": "vkladyshi-korennye",
+    "categorySlug": "engine",
+    "subcategory": "Основные детали двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Коленвал",
+    "slug": "kolenval",
+    "categorySlug": "engine",
+    "subcategory": "Основные детали двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Распредвал",
+    "slug": "raspredval",
+    "categorySlug": "engine",
+    "subcategory": "Основные детали двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Клапан впускной",
+    "slug": "klapan-vpusknoy",
+    "categorySlug": "engine",
+    "subcategory": "Основные детали двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Клапан выпускной",
+    "slug": "klapan-vypusknoy",
+    "categorySlug": "engine",
+    "subcategory": "Основные детали двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Гидрокомпенсатор",
+    "slug": "gidrokompensator",
+    "categorySlug": "engine",
+    "subcategory": "Основные детали двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Рокер",
+    "slug": "roker",
+    "categorySlug": "engine",
+    "subcategory": "Основные детали двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Толкатель клапана",
+    "slug": "tolkatel-klapana",
+    "categorySlug": "engine",
+    "subcategory": "Основные детали двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Маслосъёмные колпачки",
+    "slug": "maslosyomnye-kolpachki",
+    "categorySlug": "engine",
+    "subcategory": "Основные детали двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Сальник коленвала",
+    "slug": "salnik-kolenvala",
+    "categorySlug": "engine",
+    "subcategory": "Основные детали двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Сальник распредвала",
+    "slug": "salnik-raspredvala",
+    "categorySlug": "engine",
+    "subcategory": "Основные детали двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Маховик",
+    "slug": "makhovik",
+    "categorySlug": "engine",
+    "subcategory": "Основные детали двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Шкив коленвала",
+    "slug": "shkiv-kolenvala",
+    "categorySlug": "engine",
+    "subcategory": "Основные детали двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Шкив распредвала",
+    "slug": "shkiv-raspredvala",
+    "categorySlug": "engine",
+    "subcategory": "Основные детали двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Подушка двигателя",
+    "slug": "podushka-dvigatelya",
+    "categorySlug": "engine",
+    "subcategory": "Основные детали двигателя",
+    "synonyms": [
+      "подушка"
+    ]
+  },
+  {
+    "name": "Кронштейн двигателя",
+    "slug": "kronshteyn-dvigatelya",
+    "categorySlug": "engine",
+    "subcategory": "Основные детали двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Ремень ГРМ",
+    "slug": "remen-grm",
+    "categorySlug": "engine",
+    "subcategory": "ГРМ",
+    "synonyms": []
+  },
+  {
+    "name": "Цепь ГРМ",
+    "slug": "tsep-grm",
+    "categorySlug": "engine",
+    "subcategory": "ГРМ",
+    "synonyms": []
+  },
+  {
+    "name": "Ролик ГРМ",
+    "slug": "rolik-grm",
+    "categorySlug": "engine",
+    "subcategory": "ГРМ",
+    "synonyms": []
+  },
+  {
+    "name": "Натяжитель ГРМ",
+    "slug": "natyazhitel-grm",
+    "categorySlug": "engine",
+    "subcategory": "ГРМ",
+    "synonyms": []
+  },
+  {
+    "name": "Успокоитель цепи",
+    "slug": "uspokoitel-tsepi",
+    "categorySlug": "engine",
+    "subcategory": "ГРМ",
+    "synonyms": []
+  },
+  {
+    "name": "Звезда распредвала",
+    "slug": "zvezda-raspredvala",
+    "categorySlug": "engine",
+    "subcategory": "ГРМ",
+    "synonyms": []
+  },
+  {
+    "name": "Звезда коленвала",
+    "slug": "zvezda-kolenvala",
+    "categorySlug": "engine",
+    "subcategory": "ГРМ",
+    "synonyms": []
+  },
+  {
+    "name": "Крышка ГРМ",
+    "slug": "kryshka-grm",
+    "categorySlug": "engine",
+    "subcategory": "ГРМ",
+    "synonyms": []
+  },
+  {
+    "name": "Комплект ГРМ",
+    "slug": "komplekt-grm",
+    "categorySlug": "engine",
+    "subcategory": "ГРМ",
+    "synonyms": []
+  },
+  {
+    "name": "Генератор",
+    "slug": "generator",
+    "categorySlug": "engine",
+    "subcategory": "Навесное двигателя",
+    "synonyms": [
+      "гена"
+    ]
+  },
+  {
+    "name": "Стартер",
+    "slug": "starter",
+    "categorySlug": "engine",
+    "subcategory": "Навесное двигателя",
+    "synonyms": [
+      "стартёр"
+    ]
+  },
+  {
+    "name": "Ремень генератора",
+    "slug": "remen-generatora",
+    "categorySlug": "engine",
+    "subcategory": "Навесное двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Ремень кондиционера",
+    "slug": "remen-konditsionera",
+    "categorySlug": "engine",
+    "subcategory": "Навесное двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Ремень ГУР",
+    "slug": "remen-gur",
+    "categorySlug": "engine",
+    "subcategory": "Навесное двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Натяжитель ремня",
+    "slug": "natyazhitel-remnya",
+    "categorySlug": "engine",
+    "subcategory": "Навесное двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Обводной ролик",
+    "slug": "obvodnoy-rolik",
+    "categorySlug": "engine",
+    "subcategory": "Навесное двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Помпа",
+    "slug": "pompa",
+    "categorySlug": "engine",
+    "subcategory": "Навесное двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Компрессор кондиционера",
+    "slug": "kompressor-konditsionera",
+    "categorySlug": "engine",
+    "subcategory": "Навесное двигателя",
+    "synonyms": []
+  },
+  {
+    "name": "Свеча зажигания",
+    "slug": "svecha-zazhiganiya",
+    "categorySlug": "ignition",
+    "subcategory": null,
+    "synonyms": [
+      "свеча",
+      "свечи"
+    ]
+  },
+  {
+    "name": "Катушка зажигания",
+    "slug": "katushka-zazhiganiya",
+    "categorySlug": "ignition",
+    "subcategory": null,
+    "synonyms": [
+      "катушка"
+    ]
+  },
+  {
+    "name": "Бронепровод",
+    "slug": "broneprovod",
+    "categorySlug": "ignition",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Трамблёр",
+    "slug": "tramblyor",
+    "categorySlug": "ignition",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Крышка трамблёра",
+    "slug": "kryshka-tramblyora",
+    "categorySlug": "ignition",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Бегунок трамблёра",
+    "slug": "begunok-tramblyora",
+    "categorySlug": "ignition",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Коммутатор",
+    "slug": "kommutator",
+    "categorySlug": "ignition",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Замок зажигания",
+    "slug": "zamok-zazhiganiya",
+    "categorySlug": "ignition",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Личинка замка зажигания",
+    "slug": "lichinka-zamka-zazhiganiya",
+    "categorySlug": "ignition",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Контактная группа замка",
+    "slug": "kontaktnaya-gruppa-zamka",
+    "categorySlug": "ignition",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик коленвала",
+    "slug": "datchik-kolenvala",
+    "categorySlug": "ignition",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик распредвала",
+    "slug": "datchik-raspredvala",
+    "categorySlug": "ignition",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Блок зажигания",
+    "slug": "blok-zazhiganiya",
+    "categorySlug": "ignition",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Топливный бак",
+    "slug": "toplivnyy-bak",
+    "categorySlug": "fuel-system",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Крышка бензобака",
+    "slug": "kryshka-benzobaka",
+    "categorySlug": "fuel-system",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Лючок бензобака",
+    "slug": "lyuchok-benzobaka",
+    "categorySlug": "fuel-system",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Горловина бензобака",
+    "slug": "gorlovina-benzobaka",
+    "categorySlug": "fuel-system",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Топливный насос",
+    "slug": "toplivnyy-nasos",
+    "categorySlug": "fuel-system",
+    "subcategory": null,
+    "synonyms": [
+      "бензонасос",
+      "электробензонасос"
+    ]
+  },
+  {
+    "name": "Бензонасос",
+    "slug": "benzonasos",
+    "categorySlug": "fuel-system",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Электробензонасос",
+    "slug": "elektrobenzonasos",
+    "categorySlug": "fuel-system",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "ТНВД",
+    "slug": "tnvd",
+    "categorySlug": "fuel-system",
+    "subcategory": null,
+    "synonyms": [
+      "топливный насос высокого давления"
+    ]
+  },
+  {
+    "name": "Топливная рампа",
+    "slug": "toplivnaya-rampa",
+    "categorySlug": "fuel-system",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Форсунка",
+    "slug": "forsunka",
+    "categorySlug": "fuel-system",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Ремкомплект форсунки",
+    "slug": "remkomplekt-forsunki",
+    "categorySlug": "fuel-system",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Регулятор давления топлива",
+    "slug": "regulyator-davleniya-topliva",
+    "categorySlug": "fuel-system",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Топливная трубка",
+    "slug": "toplivnaya-trubka",
+    "categorySlug": "fuel-system",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Топливный шланг",
+    "slug": "toplivnyy-shlang",
+    "categorySlug": "fuel-system",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик уровня топлива",
+    "slug": "datchik-urovnya-topliva",
+    "categorySlug": "fuel-system",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Адсорбер",
+    "slug": "adsorber",
+    "categorySlug": "fuel-system",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Клапан адсорбера",
+    "slug": "klapan-adsorbera",
+    "categorySlug": "fuel-system",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Карбюратор",
+    "slug": "karbyurator",
+    "categorySlug": "fuel-system",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Ремкомплект карбюратора",
+    "slug": "remkomplekt-karbyuratora",
+    "categorySlug": "fuel-system",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Жиклёр карбюратора",
+    "slug": "zhiklyor-karbyuratora",
+    "categorySlug": "fuel-system",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Поплавок карбюратора",
+    "slug": "poplavok-karbyuratora",
+    "categorySlug": "fuel-system",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Дроссельная заслонка",
+    "slug": "drosselnaya-zaslonka",
+    "categorySlug": "fuel-system",
+    "subcategory": null,
+    "synonyms": [
+      "дроссель"
+    ]
+  },
+  {
+    "name": "Датчик дросселя",
+    "slug": "datchik-drosselya",
+    "categorySlug": "fuel-system",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Педаль газа",
+    "slug": "pedal-gaza",
+    "categorySlug": "fuel-system",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Электронная педаль газа",
+    "slug": "elektronnaya-pedal-gaza",
+    "categorySlug": "fuel-system",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Воздушный фильтр",
+    "slug": "vozdushnyy-filtr",
+    "categorySlug": "intake",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Корпус воздушного фильтра",
+    "slug": "korpus-vozdushnogo-filtra",
+    "categorySlug": "intake",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Патрубок воздушного фильтра",
+    "slug": "patrubok-vozdushnogo-filtra",
+    "categorySlug": "intake",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Впускной коллектор",
+    "slug": "vpusknoy-kollektor",
+    "categorySlug": "intake",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Прокладка впускного коллектора",
+    "slug": "prokladka-vpusknogo-kollektora",
+    "categorySlug": "intake",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Дроссель",
+    "slug": "drossel",
+    "categorySlug": "intake",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик расхода воздуха",
+    "slug": "datchik-raskhoda-vozdukha",
+    "categorySlug": "intake",
+    "subcategory": null,
+    "synonyms": [
+      "maf",
+      "maf sensor",
+      "дмрв"
+    ]
+  },
+  {
+    "name": "ДМРВ",
+    "slug": "dmrv",
+    "categorySlug": "intake",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "MAF sensor",
+    "slug": "maf-sensor",
+    "categorySlug": "intake",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик абсолютного давления",
+    "slug": "datchik-absolyutnogo-davleniya",
+    "categorySlug": "intake",
+    "subcategory": null,
+    "synonyms": [
+      "map",
+      "map sensor"
+    ]
+  },
+  {
+    "name": "MAP sensor",
+    "slug": "map-sensor",
+    "categorySlug": "intake",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Резонатор воздушного фильтра",
+    "slug": "rezonator-vozdushnogo-filtra",
+    "categorySlug": "intake",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Интеркулер",
+    "slug": "interkuler",
+    "categorySlug": "intake",
+    "subcategory": null,
+    "synonyms": [
+      "интеркуллер"
+    ]
+  },
+  {
+    "name": "Патрубок интеркулера",
+    "slug": "patrubok-interkulera",
+    "categorySlug": "intake",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Турбина",
+    "slug": "turbina",
+    "categorySlug": "intake",
+    "subcategory": null,
+    "synonyms": [
+      "турба",
+      "турбокомпрессор"
+    ]
+  },
+  {
+    "name": "Турбокомпрессор",
+    "slug": "turbokompressor",
+    "categorySlug": "intake",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Актуатор турбины",
+    "slug": "aktuator-turbiny",
+    "categorySlug": "intake",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Клапан турбины",
+    "slug": "klapan-turbiny",
+    "categorySlug": "intake",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик наддува",
+    "slug": "datchik-nadduva",
+    "categorySlug": "intake",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Выпускной коллектор",
+    "slug": "vypusknoy-kollektor",
+    "categorySlug": "exhaust",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Прокладка выпускного коллектора",
+    "slug": "prokladka-vypusknogo-kollektora",
+    "categorySlug": "exhaust",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Приёмная труба",
+    "slug": "priyomnaya-truba",
+    "categorySlug": "exhaust",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Глушитель",
+    "slug": "glushitel",
+    "categorySlug": "exhaust",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Резонатор",
+    "slug": "rezonator",
+    "categorySlug": "exhaust",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Катализатор",
+    "slug": "katalizator",
+    "categorySlug": "exhaust",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Пламегаситель",
+    "slug": "plamegasitel",
+    "categorySlug": "exhaust",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Сажевый фильтр",
+    "slug": "sazhevyy-filtr",
+    "categorySlug": "exhaust",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "DPF фильтр",
+    "slug": "dpf-filtr",
+    "categorySlug": "exhaust",
+    "subcategory": null,
+    "synonyms": [
+      "dpf",
+      "сажевый",
+      "сажевый фильтр"
+    ]
+  },
+  {
+    "name": "Гофра глушителя",
+    "slug": "gofra-glushitelya",
+    "categorySlug": "exhaust",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Лямбда-зонд",
+    "slug": "lyambda-zond",
+    "categorySlug": "exhaust",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик кислорода",
+    "slug": "datchik-kisloroda",
+    "categorySlug": "exhaust",
+    "subcategory": null,
+    "synonyms": [
+      "лямбда",
+      "лямбда-зонд"
+    ]
+  },
+  {
+    "name": "Датчик температуры выхлопа",
+    "slug": "datchik-temperatury-vykhlopa",
+    "categorySlug": "exhaust",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик давления выхлопа",
+    "slug": "datchik-davleniya-vykhlopa",
+    "categorySlug": "exhaust",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Крепление глушителя",
+    "slug": "kreplenie-glushitelya",
+    "categorySlug": "exhaust",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Резинка глушителя",
+    "slug": "rezinka-glushitelya",
+    "categorySlug": "exhaust",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Хомут глушителя",
+    "slug": "khomut-glushitelya",
+    "categorySlug": "exhaust",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Насадка глушителя",
+    "slug": "nasadka-glushitelya",
+    "categorySlug": "exhaust",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Радиатор охлаждения",
+    "slug": "radiator-okhlazhdeniya",
+    "categorySlug": "cooling",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Радиатор печки",
+    "slug": "radiator-pechki",
+    "categorySlug": "cooling",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Вентилятор радиатора",
+    "slug": "ventilyator-radiatora",
+    "categorySlug": "cooling",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Диффузор вентилятора",
+    "slug": "diffuzor-ventilyatora",
+    "categorySlug": "cooling",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Термостат",
+    "slug": "termostat",
+    "categorySlug": "cooling",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Корпус термостата",
+    "slug": "korpus-termostata",
+    "categorySlug": "cooling",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Водяной насос",
+    "slug": "vodyanoy-nasos",
+    "categorySlug": "cooling",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Расширительный бачок",
+    "slug": "rasshiritelnyy-bachok",
+    "categorySlug": "cooling",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Крышка радиатора",
+    "slug": "kryshka-radiatora",
+    "categorySlug": "cooling",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Крышка расширительного бачка",
+    "slug": "kryshka-rasshiritelnogo-bachka",
+    "categorySlug": "cooling",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Патрубок верхний",
+    "slug": "patrubok-verkhniy",
+    "categorySlug": "cooling",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Патрубок нижний",
+    "slug": "patrubok-nizhniy",
+    "categorySlug": "cooling",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Тройник охлаждения",
+    "slug": "troynik-okhlazhdeniya",
+    "categorySlug": "cooling",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Фланец охлаждения",
+    "slug": "flanets-okhlazhdeniya",
+    "categorySlug": "cooling",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик температуры",
+    "slug": "datchik-temperatury",
+    "categorySlug": "cooling",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Антифриз",
+    "slug": "antifriz",
+    "categorySlug": "cooling",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Кран печки",
+    "slug": "kran-pechki",
+    "categorySlug": "cooling",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Масляный радиатор",
+    "slug": "maslyanyy-radiator",
+    "categorySlug": "cooling",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Радиатор АКПП",
+    "slug": "radiator-akpp",
+    "categorySlug": "cooling",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Масляный фильтр",
+    "slug": "maslyanyy-filtr",
+    "categorySlug": "filters",
+    "subcategory": null,
+    "synonyms": [
+      "воздушный фильтр",
+      "салонный фильтр",
+      "топливный фильтр",
+      "фильтр"
+    ]
+  },
+  {
+    "name": "Салонный фильтр",
+    "slug": "salonnyy-filtr",
+    "categorySlug": "filters",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Топливный фильтр",
+    "slug": "toplivnyy-filtr",
+    "categorySlug": "filters",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Фильтр АКПП",
+    "slug": "filtr-akpp",
+    "categorySlug": "filters",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Фильтр вариатора",
+    "slug": "filtr-variatora",
+    "categorySlug": "filters",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Фильтр ГУР",
+    "slug": "filtr-gur",
+    "categorySlug": "filters",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Фильтр карбюратора",
+    "slug": "filtr-karbyuratora",
+    "categorySlug": "filters",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Фильтр мочевины",
+    "slug": "filtr-mocheviny",
+    "categorySlug": "filters",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "МКПП",
+    "slug": "mkpp",
+    "categorySlug": "transmission",
+    "subcategory": "Механическая коробка",
+    "synonyms": [
+      "коробка механика",
+      "механика"
+    ]
+  },
+  {
+    "name": "Коробка механика",
+    "slug": "korobka-mekhanika",
+    "categorySlug": "transmission",
+    "subcategory": "Механическая коробка",
+    "synonyms": []
+  },
+  {
+    "name": "Диск сцепления",
+    "slug": "disk-stsepleniya",
+    "categorySlug": "transmission",
+    "subcategory": "Механическая коробка",
+    "synonyms": []
+  },
+  {
+    "name": "Корзина сцепления",
+    "slug": "korzina-stsepleniya",
+    "categorySlug": "transmission",
+    "subcategory": "Механическая коробка",
+    "synonyms": []
+  },
+  {
+    "name": "Выжимной подшипник",
+    "slug": "vyzhimnoy-podshipnik",
+    "categorySlug": "transmission",
+    "subcategory": "Механическая коробка",
+    "synonyms": []
+  },
+  {
+    "name": "Главный цилиндр сцепления",
+    "slug": "glavnyy-tsilindr-stsepleniya",
+    "categorySlug": "transmission",
+    "subcategory": "Механическая коробка",
+    "synonyms": []
+  },
+  {
+    "name": "Рабочий цилиндр сцепления",
+    "slug": "rabochiy-tsilindr-stsepleniya",
+    "categorySlug": "transmission",
+    "subcategory": "Механическая коробка",
+    "synonyms": []
+  },
+  {
+    "name": "Трос сцепления",
+    "slug": "tros-stsepleniya",
+    "categorySlug": "transmission",
+    "subcategory": "Механическая коробка",
+    "synonyms": []
+  },
+  {
+    "name": "Вилка сцепления",
+    "slug": "vilka-stsepleniya",
+    "categorySlug": "transmission",
+    "subcategory": "Механическая коробка",
+    "synonyms": []
+  },
+  {
+    "name": "Кулиса КПП",
+    "slug": "kulisa-kpp",
+    "categorySlug": "transmission",
+    "subcategory": "Механическая коробка",
+    "synonyms": []
+  },
+  {
+    "name": "Трос КПП",
+    "slug": "tros-kpp",
+    "categorySlug": "transmission",
+    "subcategory": "Механическая коробка",
+    "synonyms": []
+  },
+  {
+    "name": "Подушка коробки",
+    "slug": "podushka-korobki",
+    "categorySlug": "transmission",
+    "subcategory": "Механическая коробка",
+    "synonyms": []
+  },
+  {
+    "name": "Сальник первичного вала",
+    "slug": "salnik-pervichnogo-vala",
+    "categorySlug": "transmission",
+    "subcategory": "Механическая коробка",
+    "synonyms": []
+  },
+  {
+    "name": "Сальник привода",
+    "slug": "salnik-privoda",
+    "categorySlug": "transmission",
+    "subcategory": "Механическая коробка",
+    "synonyms": []
+  },
+  {
+    "name": "Масло МКПП",
+    "slug": "maslo-mkpp",
+    "categorySlug": "transmission",
+    "subcategory": "Механическая коробка",
+    "synonyms": []
+  },
+  {
+    "name": "АКПП",
+    "slug": "akpp",
+    "categorySlug": "transmission",
+    "subcategory": "Автоматическая коробка",
+    "synonyms": [
+      "автомат",
+      "автоматическая коробка"
+    ]
+  },
+  {
+    "name": "Автоматическая коробка",
+    "slug": "avtomaticheskaya-korobka",
+    "categorySlug": "transmission",
+    "subcategory": "Автоматическая коробка",
+    "synonyms": []
+  },
+  {
+    "name": "Гидроблок АКПП",
+    "slug": "gidroblok-akpp",
+    "categorySlug": "transmission",
+    "subcategory": "Автоматическая коробка",
+    "synonyms": []
+  },
+  {
+    "name": "Гидротрансформатор",
+    "slug": "gidrotransformator",
+    "categorySlug": "transmission",
+    "subcategory": "Автоматическая коробка",
+    "synonyms": [
+      "бублик",
+      "гидротрансформатор акпп"
+    ]
+  },
+  {
+    "name": "Соленоид АКПП",
+    "slug": "solenoid-akpp",
+    "categorySlug": "transmission",
+    "subcategory": "Автоматическая коробка",
+    "synonyms": []
+  },
+  {
+    "name": "Поддон АКПП",
+    "slug": "poddon-akpp",
+    "categorySlug": "transmission",
+    "subcategory": "Автоматическая коробка",
+    "synonyms": []
+  },
+  {
+    "name": "Прокладка поддона АКПП",
+    "slug": "prokladka-poddona-akpp",
+    "categorySlug": "transmission",
+    "subcategory": "Автоматическая коробка",
+    "synonyms": []
+  },
+  {
+    "name": "Масло АКПП",
+    "slug": "maslo-akpp",
+    "categorySlug": "transmission",
+    "subcategory": "Автоматическая коробка",
+    "synonyms": []
+  },
+  {
+    "name": "Селектор АКПП",
+    "slug": "selektor-akpp",
+    "categorySlug": "transmission",
+    "subcategory": "Автоматическая коробка",
+    "synonyms": []
+  },
+  {
+    "name": "Трос АКПП",
+    "slug": "tros-akpp",
+    "categorySlug": "transmission",
+    "subcategory": "Автоматическая коробка",
+    "synonyms": []
+  },
+  {
+    "name": "Датчик АКПП",
+    "slug": "datchik-akpp",
+    "categorySlug": "transmission",
+    "subcategory": "Автоматическая коробка",
+    "synonyms": []
+  },
+  {
+    "name": "Блок управления АКПП",
+    "slug": "blok-upravleniya-akpp",
+    "categorySlug": "transmission",
+    "subcategory": "Автоматическая коробка",
+    "synonyms": []
+  },
+  {
+    "name": "Вариатор",
+    "slug": "variator",
+    "categorySlug": "transmission",
+    "subcategory": "Вариатор / робот",
+    "synonyms": [
+      "cvt"
+    ]
+  },
+  {
+    "name": "CVT",
+    "slug": "cvt",
+    "categorySlug": "transmission",
+    "subcategory": "Вариатор / робот",
+    "synonyms": []
+  },
+  {
+    "name": "Ремень вариатора",
+    "slug": "remen-variatora",
+    "categorySlug": "transmission",
+    "subcategory": "Вариатор / робот",
+    "synonyms": []
+  },
+  {
+    "name": "Конус вариатора",
+    "slug": "konus-variatora",
+    "categorySlug": "transmission",
+    "subcategory": "Вариатор / робот",
+    "synonyms": []
+  },
+  {
+    "name": "Масло вариатора",
+    "slug": "maslo-variatora",
+    "categorySlug": "transmission",
+    "subcategory": "Вариатор / робот",
+    "synonyms": []
+  },
+  {
+    "name": "Роботизированная коробка",
+    "slug": "robotizirovannaya-korobka",
+    "categorySlug": "transmission",
+    "subcategory": "Вариатор / робот",
+    "synonyms": [
+      "dsg",
+      "робот"
+    ]
+  },
+  {
+    "name": "Актуатор сцепления",
+    "slug": "aktuator-stsepleniya",
+    "categorySlug": "transmission",
+    "subcategory": "Вариатор / робот",
+    "synonyms": []
+  },
+  {
+    "name": "Актуатор КПП",
+    "slug": "aktuator-kpp",
+    "categorySlug": "transmission",
+    "subcategory": "Вариатор / робот",
+    "synonyms": []
+  },
+  {
+    "name": "Мехатроник",
+    "slug": "mekhatronik",
+    "categorySlug": "transmission",
+    "subcategory": "Вариатор / робот",
+    "synonyms": []
+  },
+  {
+    "name": "DSG",
+    "slug": "dsg",
+    "categorySlug": "transmission",
+    "subcategory": "Вариатор / робот",
+    "synonyms": []
+  },
+  {
+    "name": "Сцепление DSG",
+    "slug": "stseplenie-dsg",
+    "categorySlug": "transmission",
+    "subcategory": "Вариатор / робот",
+    "synonyms": []
+  },
+  {
+    "name": "Привод левый",
+    "slug": "privod-levyy",
+    "categorySlug": "drivetrain",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Привод правый",
+    "slug": "privod-pravyy",
+    "categorySlug": "drivetrain",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Полуось",
+    "slug": "poluos",
+    "categorySlug": "drivetrain",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "ШРУС",
+    "slug": "shrus",
+    "categorySlug": "drivetrain",
+    "subcategory": null,
+    "synonyms": [
+      "граната",
+      "шрус внутренний",
+      "шрус наружный"
+    ]
+  },
+  {
+    "name": "Граната наружная",
+    "slug": "granata-naruzhnaya",
+    "categorySlug": "drivetrain",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Граната внутренняя",
+    "slug": "granata-vnutrennyaya",
+    "categorySlug": "drivetrain",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Пыльник гранаты",
+    "slug": "pylnik-granaty",
+    "categorySlug": "drivetrain",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Хомут пыльника",
+    "slug": "khomut-pylnika",
+    "categorySlug": "drivetrain",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Смазка ШРУС",
+    "slug": "smazka-shrus",
+    "categorySlug": "drivetrain",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Кардан",
+    "slug": "kardan",
+    "categorySlug": "drivetrain",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Крестовина кардана",
+    "slug": "krestovina-kardana",
+    "categorySlug": "drivetrain",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Подвесной подшипник кардана",
+    "slug": "podvesnoy-podshipnik-kardana",
+    "categorySlug": "drivetrain",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Редуктор",
+    "slug": "reduktor",
+    "categorySlug": "drivetrain",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Задний редуктор",
+    "slug": "zadniy-reduktor",
+    "categorySlug": "drivetrain",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Передний редуктор",
+    "slug": "peredniy-reduktor",
+    "categorySlug": "drivetrain",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Раздатка",
+    "slug": "razdatka",
+    "categorySlug": "drivetrain",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Раздаточная коробка",
+    "slug": "razdatochnaya-korobka",
+    "categorySlug": "drivetrain",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Муфта полного привода",
+    "slug": "mufta-polnogo-privoda",
+    "categorySlug": "drivetrain",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Дифференциал",
+    "slug": "differentsial",
+    "categorySlug": "drivetrain",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Полный привод",
+    "slug": "polnyy-privod",
+    "categorySlug": "drivetrain",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Мост",
+    "slug": "most",
+    "categorySlug": "drivetrain",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Главная пара",
+    "slug": "glavnaya-para",
+    "categorySlug": "drivetrain",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Аккумулятор",
+    "slug": "akkumulyator",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": [
+      "akkum",
+      "battery",
+      "акб",
+      "аккум"
+    ]
+  },
+  {
+    "name": "АКБ",
+    "slug": "akb",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Клемма аккумулятора",
+    "slug": "klemma-akkumulyatora",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Провод массы",
+    "slug": "provod-massy",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Плюсовой провод",
+    "slug": "plyusovoy-provod",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Реле стартера",
+    "slug": "rele-startera",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Реле генератора",
+    "slug": "rele-generatora",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Диодный мост",
+    "slug": "diodnyy-most",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Щётки генератора",
+    "slug": "shchyotki-generatora",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Регулятор напряжения",
+    "slug": "regulyator-napryazheniya",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Бендикс стартера",
+    "slug": "bendiks-startera",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Втягивающее стартера",
+    "slug": "vtyagivayushchee-startera",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Проводка",
+    "slug": "provodka",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Косичка проводки",
+    "slug": "kosichka-provodki",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Жгут проводов",
+    "slug": "zhgut-provodov",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Фишка",
+    "slug": "fishka",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Разъём",
+    "slug": "razyom",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Блок предохранителей",
+    "slug": "blok-predokhraniteley",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Предохранитель",
+    "slug": "predokhranitel",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Реле",
+    "slug": "rele",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "ЭБУ",
+    "slug": "ebu",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": [
+      "блок управления",
+      "блок управления двигателем",
+      "мозги"
+    ]
+  },
+  {
+    "name": "Мозги",
+    "slug": "mozgi",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Блок управления двигателем",
+    "slug": "blok-upravleniya-dvigatelem",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Блок комфорта",
+    "slug": "blok-komforta",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Блок управления кузовом",
+    "slug": "blok-upravleniya-kuzovom",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "BCM",
+    "slug": "bcm",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Блок управления светом",
+    "slug": "blok-upravleniya-svetom",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Блок управления климатом",
+    "slug": "blok-upravleniya-klimatom",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Кнопка старт-стоп",
+    "slug": "knopka-start-stop",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Ключ",
+    "slug": "klyuch",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Чип ключа",
+    "slug": "chip-klyucha",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Иммобилайзер",
+    "slug": "immobilayzer",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Антенна иммобилайзера",
+    "slug": "antenna-immobilayzera",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Сигнал",
+    "slug": "signal",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Клаксон",
+    "slug": "klakson",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Камера 360",
+    "slug": "kamera-360",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Парктроник",
+    "slug": "parktronik",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Блок парктроника",
+    "slug": "blok-parktronika",
+    "categorySlug": "electrical",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик давления масла",
+    "slug": "datchik-davleniya-masla",
+    "categorySlug": "sensors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик уровня масла",
+    "slug": "datchik-urovnya-masla",
+    "categorySlug": "sensors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик детонации",
+    "slug": "datchik-detonatsii",
+    "categorySlug": "sensors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик скорости",
+    "slug": "datchik-skorosti",
+    "categorySlug": "sensors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик положения педали газа",
+    "slug": "datchik-polozheniya-pedali-gaza",
+    "categorySlug": "sensors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик положения педали тормоза",
+    "slug": "datchik-polozheniya-pedali-tormoza",
+    "categorySlug": "sensors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик положения руля",
+    "slug": "datchik-polozheniya-rulya",
+    "categorySlug": "sensors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик давления шин",
+    "slug": "datchik-davleniya-shin",
+    "categorySlug": "sensors",
+    "subcategory": null,
+    "synonyms": [
+      "tpms"
+    ]
+  },
+  {
+    "name": "TPMS",
+    "slug": "tpms",
+    "categorySlug": "sensors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик удара",
+    "slug": "datchik-udara",
+    "categorySlug": "sensors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик airbag",
+    "slug": "datchik-airbag",
+    "categorySlug": "sensors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик температуры салона",
+    "slug": "datchik-temperatury-salona",
+    "categorySlug": "sensors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик наружной температуры",
+    "slug": "datchik-naruzhnoy-temperatury",
+    "categorySlug": "sensors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик давления кондиционера",
+    "slug": "datchik-davleniya-konditsionera",
+    "categorySlug": "sensors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик уровня охлаждающей жидкости",
+    "slug": "datchik-urovnya-okhlazhdayushchey-zhidkosti",
+    "categorySlug": "sensors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик парковки",
+    "slug": "datchik-parkovki",
+    "categorySlug": "sensors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик слепой зоны",
+    "slug": "datchik-slepoy-zony",
+    "categorySlug": "sensors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик дистанции",
+    "slug": "datchik-distantsii",
+    "categorySlug": "sensors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Радар",
+    "slug": "radar",
+    "categorySlug": "sensors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Лидар",
+    "slug": "lidar",
+    "categorySlug": "sensors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Камера ассистента",
+    "slug": "kamera-assistenta",
+    "categorySlug": "sensors",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Муфта компрессора",
+    "slug": "mufta-kompressora",
+    "categorySlug": "climate",
+    "subcategory": "Кондиционер",
+    "synonyms": []
+  },
+  {
+    "name": "Радиатор кондиционера",
+    "slug": "radiator-konditsionera",
+    "categorySlug": "climate",
+    "subcategory": "Кондиционер",
+    "synonyms": []
+  },
+  {
+    "name": "Конденсор",
+    "slug": "kondensor",
+    "categorySlug": "climate",
+    "subcategory": "Кондиционер",
+    "synonyms": []
+  },
+  {
+    "name": "Испаритель кондиционера",
+    "slug": "isparitel-konditsionera",
+    "categorySlug": "climate",
+    "subcategory": "Кондиционер",
+    "synonyms": []
+  },
+  {
+    "name": "Осушитель кондиционера",
+    "slug": "osushitel-konditsionera",
+    "categorySlug": "climate",
+    "subcategory": "Кондиционер",
+    "synonyms": []
+  },
+  {
+    "name": "Трубка кондиционера",
+    "slug": "trubka-konditsionera",
+    "categorySlug": "climate",
+    "subcategory": "Кондиционер",
+    "synonyms": []
+  },
+  {
+    "name": "Шланг кондиционера",
+    "slug": "shlang-konditsionera",
+    "categorySlug": "climate",
+    "subcategory": "Кондиционер",
+    "synonyms": []
+  },
+  {
+    "name": "Клапан кондиционера",
+    "slug": "klapan-konditsionera",
+    "categorySlug": "climate",
+    "subcategory": "Кондиционер",
+    "synonyms": []
+  },
+  {
+    "name": "Фреон",
+    "slug": "freon",
+    "categorySlug": "climate",
+    "subcategory": "Кондиционер",
+    "synonyms": []
+  },
+  {
+    "name": "Блок управления кондиционером",
+    "slug": "blok-upravleniya-konditsionerom",
+    "categorySlug": "climate",
+    "subcategory": "Кондиционер",
+    "synonyms": []
+  },
+  {
+    "name": "Кнопка кондиционера",
+    "slug": "knopka-konditsionera",
+    "categorySlug": "climate",
+    "subcategory": "Кондиционер",
+    "synonyms": []
+  },
+  {
+    "name": "Моторчик печки",
+    "slug": "motorchik-pechki",
+    "categorySlug": "climate",
+    "subcategory": "Печка",
+    "synonyms": []
+  },
+  {
+    "name": "Резистор печки",
+    "slug": "rezistor-pechki",
+    "categorySlug": "climate",
+    "subcategory": "Печка",
+    "synonyms": []
+  },
+  {
+    "name": "Блок управления печкой",
+    "slug": "blok-upravleniya-pechkoy",
+    "categorySlug": "climate",
+    "subcategory": "Печка",
+    "synonyms": []
+  },
+  {
+    "name": "Заслонка печки",
+    "slug": "zaslonka-pechki",
+    "categorySlug": "climate",
+    "subcategory": "Печка",
+    "synonyms": []
+  },
+  {
+    "name": "Моторчик заслонки",
+    "slug": "motorchik-zaslonki",
+    "categorySlug": "climate",
+    "subcategory": "Печка",
+    "synonyms": []
+  },
+  {
+    "name": "Тросик печки",
+    "slug": "trosik-pechki",
+    "categorySlug": "climate",
+    "subcategory": "Печка",
+    "synonyms": []
+  },
+  {
+    "name": "Дефлектор воздуха",
+    "slug": "deflektor-vozdukha",
+    "categorySlug": "climate",
+    "subcategory": "Печка",
+    "synonyms": []
+  },
+  {
+    "name": "Воздуховод",
+    "slug": "vozdukhovod",
+    "categorySlug": "climate",
+    "subcategory": "Печка",
+    "synonyms": []
+  },
+  {
+    "name": "Фильтр салона",
+    "slug": "filtr-salona",
+    "categorySlug": "climate",
+    "subcategory": "Печка",
+    "synonyms": []
+  },
+  {
+    "name": "Торпедо",
+    "slug": "torpedo",
+    "categorySlug": "interior",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Панель приборов",
+    "slug": "panel-priborov",
+    "categorySlug": "interior",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Щиток приборов",
+    "slug": "shchitok-priborov",
+    "categorySlug": "interior",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Спидометр",
+    "slug": "spidometr",
+    "categorySlug": "interior",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Магнитола",
+    "slug": "magnitola",
+    "categorySlug": "interior",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Монитор",
+    "slug": "monitor",
+    "categorySlug": "interior",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Мультимедиа",
+    "slug": "multimedia",
+    "categorySlug": "interior",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Навигация",
+    "slug": "navigatsiya",
+    "categorySlug": "interior",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Android монитор",
+    "slug": "android-monitor",
+    "categorySlug": "interior",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Климат-контроль",
+    "slug": "klimat-kontrol",
+    "categorySlug": "interior",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Переключатель поворотов",
+    "slug": "pereklyuchatel-povorotov",
+    "categorySlug": "interior",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Переключатель дворников",
+    "slug": "pereklyuchatel-dvornikov",
+    "categorySlug": "interior",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Кнопки салона",
+    "slug": "knopki-salona",
+    "categorySlug": "interior",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Кнопка аварийки",
+    "slug": "knopka-avariyki",
+    "categorySlug": "interior",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Кнопка обогрева",
+    "slug": "knopka-obogreva",
+    "categorySlug": "interior",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Центральная консоль",
+    "slug": "tsentralnaya-konsol",
+    "categorySlug": "interior",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Подлокотник",
+    "slug": "podlokotnik",
+    "categorySlug": "interior",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Бардачок",
+    "slug": "bardachok",
+    "categorySlug": "interior",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Сиденье переднее",
+    "slug": "sidene-perednee",
+    "categorySlug": "interior",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Сиденье заднее",
+    "slug": "sidene-zadnee",
+    "categorySlug": "interior",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Подголовник",
+    "slug": "podgolovnik",
+    "categorySlug": "interior",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Ремень безопасности",
+    "slug": "remen-bezopasnosti",
+    "categorySlug": "interior",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Замок ремня безопасности",
+    "slug": "zamok-remnya-bezopasnosti",
+    "categorySlug": "interior",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Потолок салона",
+    "slug": "potolok-salona",
+    "categorySlug": "interior",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Обшивка стойки",
+    "slug": "obshivka-stoyki",
+    "categorySlug": "interior",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Коврики",
+    "slug": "kovriki",
+    "categorySlug": "interior",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Пол салона",
+    "slug": "pol-salona",
+    "categorySlug": "interior",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Шумоизоляция",
+    "slug": "shumoizolyatsiya",
+    "categorySlug": "interior",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Ручка потолка",
+    "slug": "ruchka-potolka",
+    "categorySlug": "interior",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Козырёк солнцезащитный",
+    "slug": "kozyryok-solntsezashchitnyy",
+    "categorySlug": "interior",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Прикуриватель",
+    "slug": "prikurivatel",
+    "categorySlug": "interior",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "USB порт",
+    "slug": "usb-port",
+    "categorySlug": "interior",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Розетка 12V",
+    "slug": "rozetka-12v",
+    "categorySlug": "interior",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Камера салона",
+    "slug": "kamera-salona",
+    "categorySlug": "interior",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Airbag пассажира",
+    "slug": "airbag-passazhira",
+    "categorySlug": "safety",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Боковая подушка безопасности",
+    "slug": "bokovaya-podushka-bezopasnosti",
+    "categorySlug": "safety",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Шторка безопасности",
+    "slug": "shtorka-bezopasnosti",
+    "categorySlug": "safety",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Блок SRS",
+    "slug": "blok-srs",
+    "categorySlug": "safety",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Преднатяжитель ремня",
+    "slug": "prednatyazhitel-remnya",
+    "categorySlug": "safety",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Крепление детского кресла",
+    "slug": "kreplenie-detskogo-kresla",
+    "categorySlug": "safety",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Isofix",
+    "slug": "isofix",
+    "categorySlug": "safety",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "ABS",
+    "slug": "abs",
+    "categorySlug": "safety",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "ESP",
+    "slug": "esp",
+    "categorySlug": "safety",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Антипробуксовочная система",
+    "slug": "antiprobuksovochnaya-sistema",
+    "categorySlug": "safety",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Шина",
+    "slug": "shina",
+    "categorySlug": "wheels-tires",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Покрышка",
+    "slug": "pokryshka",
+    "categorySlug": "wheels-tires",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Диск",
+    "slug": "disk",
+    "categorySlug": "wheels-tires",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Литой диск",
+    "slug": "litoy-disk",
+    "categorySlug": "wheels-tires",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Железный диск",
+    "slug": "zheleznyy-disk",
+    "categorySlug": "wheels-tires",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Колпак",
+    "slug": "kolpak",
+    "categorySlug": "wheels-tires",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Болт колеса",
+    "slug": "bolt-kolesa",
+    "categorySlug": "wheels-tires",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Гайка колеса",
+    "slug": "gayka-kolesa",
+    "categorySlug": "wheels-tires",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Секретка",
+    "slug": "sekretka",
+    "categorySlug": "wheels-tires",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Сосок",
+    "slug": "sosok",
+    "categorySlug": "wheels-tires",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Ниппель",
+    "slug": "nippel",
+    "categorySlug": "wheels-tires",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Запаска",
+    "slug": "zapaska",
+    "categorySlug": "wheels-tires",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Докатка",
+    "slug": "dokatka",
+    "categorySlug": "wheels-tires",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Домкрат",
+    "slug": "domkrat",
+    "categorySlug": "wheels-tires",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Баллонный ключ",
+    "slug": "ballonnyy-klyuch",
+    "categorySlug": "wheels-tires",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Проставка колеса",
+    "slug": "prostavka-kolesa",
+    "categorySlug": "wheels-tires",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Центровочное кольцо",
+    "slug": "tsentrovochnoe-koltso",
+    "categorySlug": "wheels-tires",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Масло двигателя",
+    "slug": "maslo-dvigatelya",
+    "categorySlug": "oils-fluids",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Масло редуктора",
+    "slug": "maslo-reduktora",
+    "categorySlug": "oils-fluids",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Масло раздатки",
+    "slug": "maslo-razdatki",
+    "categorySlug": "oils-fluids",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Омыватель стекла",
+    "slug": "omyvatel-stekla",
+    "categorySlug": "oils-fluids",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Герметик",
+    "slug": "germetik",
+    "categorySlug": "oils-fluids",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Очиститель карбюратора",
+    "slug": "ochistitel-karbyuratora",
+    "categorySlug": "oils-fluids",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Очиститель дросселя",
+    "slug": "ochistitel-drosselya",
+    "categorySlug": "oils-fluids",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Очиститель тормозов",
+    "slug": "ochistitel-tormozov",
+    "categorySlug": "oils-fluids",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Промывка двигателя",
+    "slug": "promyvka-dvigatelya",
+    "categorySlug": "oils-fluids",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Присадка",
+    "slug": "prisadka",
+    "categorySlug": "oils-fluids",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "AdBlue",
+    "slug": "adblue",
+    "categorySlug": "oils-fluids",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Мочевина для дизеля",
+    "slug": "mochevina-dlya-dizelya",
+    "categorySlug": "oils-fluids",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Свечи зажигания",
+    "slug": "svechi-zazhiganiya",
+    "categorySlug": "consumables",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Свечи накала",
+    "slug": "svechi-nakala",
+    "categorySlug": "consumables",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Тормозные колодки",
+    "slug": "tormoznye-kolodki",
+    "categorySlug": "consumables",
+    "subcategory": null,
+    "synonyms": [
+      "колодка",
+      "колодки"
+    ]
+  },
+  {
+    "name": "Тормозные диски",
+    "slug": "tormoznye-diski",
+    "categorySlug": "consumables",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Ролик",
+    "slug": "rolik",
+    "categorySlug": "consumables",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Натяжитель",
+    "slug": "natyazhitel",
+    "categorySlug": "consumables",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Лампочки",
+    "slug": "lampochki",
+    "categorySlug": "consumables",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Предохранители",
+    "slug": "predokhraniteli",
+    "categorySlug": "consumables",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Прокладки",
+    "slug": "prokladki",
+    "categorySlug": "consumables",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Сальники",
+    "slug": "salniki",
+    "categorySlug": "consumables",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Пыльники",
+    "slug": "pylniki",
+    "categorySlug": "consumables",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Хомуты",
+    "slug": "khomuty",
+    "categorySlug": "consumables",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Болты",
+    "slug": "bolty",
+    "categorySlug": "consumables",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Гайки",
+    "slug": "gayki",
+    "categorySlug": "consumables",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Форсунка дизельная",
+    "slug": "forsunka-dizelnaya",
+    "categorySlug": "diesel",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Свеча накала",
+    "slug": "svecha-nakala",
+    "categorySlug": "diesel",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Реле свечей накала",
+    "slug": "rele-svechey-nakala",
+    "categorySlug": "diesel",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "DPF",
+    "slug": "dpf",
+    "categorySlug": "diesel",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "EGR клапан",
+    "slug": "egr-klapan",
+    "categorySlug": "diesel",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Радиатор EGR",
+    "slug": "radiator-egr",
+    "categorySlug": "diesel",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "AdBlue насос",
+    "slug": "adblue-nasos",
+    "categorySlug": "diesel",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Бачок AdBlue",
+    "slug": "bachok-adblue",
+    "categorySlug": "diesel",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Форсунка AdBlue",
+    "slug": "forsunka-adblue",
+    "categorySlug": "diesel",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик NOx",
+    "slug": "datchik-nox",
+    "categorySlug": "diesel",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик давления топлива",
+    "slug": "datchik-davleniya-topliva",
+    "categorySlug": "diesel",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Топливный фильтр дизельный",
+    "slug": "toplivnyy-filtr-dizelnyy",
+    "categorySlug": "diesel",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Гибридная батарея",
+    "slug": "gibridnaya-batareya",
+    "categorySlug": "hybrid",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Высоковольтная батарея",
+    "slug": "vysokovoltnaya-batareya",
+    "categorySlug": "hybrid",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Инвертор",
+    "slug": "invertor",
+    "categorySlug": "hybrid",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Конвертер",
+    "slug": "konverter",
+    "categorySlug": "hybrid",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Электромотор",
+    "slug": "elektromotor",
+    "categorySlug": "hybrid",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Генератор гибрида",
+    "slug": "generator-gibrida",
+    "categorySlug": "hybrid",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Блок управления гибридом",
+    "slug": "blok-upravleniya-gibridom",
+    "categorySlug": "hybrid",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Охлаждение батареи",
+    "slug": "okhlazhdenie-batarei",
+    "categorySlug": "hybrid",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Вентилятор батареи",
+    "slug": "ventilyator-batarei",
+    "categorySlug": "hybrid",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Помпа инвертора",
+    "slug": "pompa-invertora",
+    "categorySlug": "hybrid",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Кабель высоковольтный",
+    "slug": "kabel-vysokovoltnyy",
+    "categorySlug": "hybrid",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Разъём высоковольтный",
+    "slug": "razyom-vysokovoltnyy",
+    "categorySlug": "hybrid",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "DC/DC преобразователь",
+    "slug": "dc-dc-preobrazovatel",
+    "categorySlug": "hybrid",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Зарядный блок",
+    "slug": "zaryadnyy-blok",
+    "categorySlug": "hybrid",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Реле высоковольтной батареи",
+    "slug": "rele-vysokovoltnoy-batarei",
+    "categorySlug": "hybrid",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Батарея электромобиля",
+    "slug": "batareya-elektromobilya",
+    "categorySlug": "electric-vehicle",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Модуль батареи",
+    "slug": "modul-batarei",
+    "categorySlug": "electric-vehicle",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "BMS",
+    "slug": "bms",
+    "categorySlug": "electric-vehicle",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Редуктор электромобиля",
+    "slug": "reduktor-elektromobilya",
+    "categorySlug": "electric-vehicle",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Зарядный порт",
+    "slug": "zaryadnyy-port",
+    "categorySlug": "electric-vehicle",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Зарядный кабель",
+    "slug": "zaryadnyy-kabel",
+    "categorySlug": "electric-vehicle",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Бортовое зарядное устройство",
+    "slug": "bortovoe-zaryadnoe-ustroystvo",
+    "categorySlug": "electric-vehicle",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "DC/DC конвертер",
+    "slug": "dc-dc-konverter",
+    "categorySlug": "electric-vehicle",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Контактор батареи",
+    "slug": "kontaktor-batarei",
+    "categorySlug": "electric-vehicle",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Высоковольтный кабель",
+    "slug": "vysokovoltnyy-kabel",
+    "categorySlug": "electric-vehicle",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Помпа охлаждения батареи",
+    "slug": "pompa-okhlazhdeniya-batarei",
+    "categorySlug": "electric-vehicle",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Радиатор батареи",
+    "slug": "radiator-batarei",
+    "categorySlug": "electric-vehicle",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Тепловой насос",
+    "slug": "teplovoy-nasos",
+    "categorySlug": "electric-vehicle",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Рекуперативное торможение",
+    "slug": "rekuperativnoe-tormozhenie",
+    "categorySlug": "electric-vehicle",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Блок управления электромотором",
+    "slug": "blok-upravleniya-elektromotorom",
+    "categorySlug": "electric-vehicle",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Картридж турбины",
+    "slug": "kartridzh-turbiny",
+    "categorySlug": "turbo",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Геометрия турбины",
+    "slug": "geometriya-turbiny",
+    "categorySlug": "turbo",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Wastegate",
+    "slug": "wastegate",
+    "categorySlug": "turbo",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Blow-off клапан",
+    "slug": "blow-off-klapan",
+    "categorySlug": "turbo",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Масляная трубка турбины",
+    "slug": "maslyanaya-trubka-turbiny",
+    "categorySlug": "turbo",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Воздушная трубка турбины",
+    "slug": "vozdushnaya-trubka-turbiny",
+    "categorySlug": "turbo",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Камера заднего вида",
+    "slug": "kamera-zadnego-vida",
+    "categorySlug": "adas",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Камера передняя",
+    "slug": "kamera-perednyaya",
+    "categorySlug": "adas",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Блок ассистентов",
+    "slug": "blok-assistentov",
+    "categorySlug": "adas",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Камера полосы",
+    "slug": "kamera-polosy",
+    "categorySlug": "adas",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик автоторможения",
+    "slug": "datchik-avtotormozheniya",
+    "categorySlug": "adas",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Датчик круиз-контроля",
+    "slug": "datchik-kruiz-kontrolya",
+    "categorySlug": "adas",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Адаптивный круиз",
+    "slug": "adaptivnyy-kruiz",
+    "categorySlug": "adas",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Блок ADAS",
+    "slug": "blok-adas",
+    "categorySlug": "adas",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Дисплей",
+    "slug": "displey",
+    "categorySlug": "audio",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Усилитель",
+    "slug": "usilitel",
+    "categorySlug": "audio",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Динамик",
+    "slug": "dinamik",
+    "categorySlug": "audio",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Сабвуфер",
+    "slug": "sabvufer",
+    "categorySlug": "audio",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Антенна",
+    "slug": "antenna",
+    "categorySlug": "audio",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "GPS антенна",
+    "slug": "gps-antenna",
+    "categorySlug": "audio",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Микрофон",
+    "slug": "mikrofon",
+    "categorySlug": "audio",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "USB блок",
+    "slug": "usb-blok",
+    "categorySlug": "audio",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "AUX вход",
+    "slug": "aux-vkhod",
+    "categorySlug": "audio",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Bluetooth модуль",
+    "slug": "bluetooth-modul",
+    "categorySlug": "audio",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Болт",
+    "slug": "bolt",
+    "categorySlug": "fasteners",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Гайка",
+    "slug": "gayka",
+    "categorySlug": "fasteners",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Шайба",
+    "slug": "shayba",
+    "categorySlug": "fasteners",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Саморез",
+    "slug": "samorez",
+    "categorySlug": "fasteners",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Клипса",
+    "slug": "klipsa",
+    "categorySlug": "fasteners",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Пистон",
+    "slug": "piston",
+    "categorySlug": "fasteners",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Хомут",
+    "slug": "khomut",
+    "categorySlug": "fasteners",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Скоба",
+    "slug": "skoba",
+    "categorySlug": "fasteners",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Кронштейн",
+    "slug": "kronshteyn",
+    "categorySlug": "fasteners",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Заглушка",
+    "slug": "zaglushka",
+    "categorySlug": "fasteners",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Уплотнитель",
+    "slug": "uplotnitel",
+    "categorySlug": "fasteners",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Резинка",
+    "slug": "rezinka",
+    "categorySlug": "fasteners",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Прокладка",
+    "slug": "prokladka",
+    "categorySlug": "fasteners",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Сальник",
+    "slug": "salnik",
+    "categorySlug": "fasteners",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Пыльник",
+    "slug": "pylnik",
+    "categorySlug": "fasteners",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Втулка",
+    "slug": "vtulka",
+    "categorySlug": "fasteners",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Шланг",
+    "slug": "shlang",
+    "categorySlug": "fasteners",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Патрубок",
+    "slug": "patrubok",
+    "categorySlug": "fasteners",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Тросик",
+    "slug": "trosik",
+    "categorySlug": "fasteners",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Обвес",
+    "slug": "obves",
+    "categorySlug": "tuning",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Решётка тюнинг",
+    "slug": "reshyotka-tyuning",
+    "categorySlug": "tuning",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Фары тюнинг",
+    "slug": "fary-tyuning",
+    "categorySlug": "tuning",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "LED лампы",
+    "slug": "led-lampy",
+    "categorySlug": "tuning",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Диски",
+    "slug": "diski",
+    "categorySlug": "tuning",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Проставки",
+    "slug": "prostavki",
+    "categorySlug": "tuning",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Тонировка",
+    "slug": "tonirovka",
+    "categorySlug": "tuning",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Чехлы",
+    "slug": "chekhly",
+    "categorySlug": "tuning",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Накидки",
+    "slug": "nakidki",
+    "categorySlug": "tuning",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Сигнализация",
+    "slug": "signalizatsiya",
+    "categorySlug": "tuning",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Видеорегистратор",
+    "slug": "videoregistrator",
+    "categorySlug": "tuning",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Держатель телефона",
+    "slug": "derzhatel-telefona",
+    "categorySlug": "tuning",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Зарядка",
+    "slug": "zaryadka",
+    "categorySlug": "tuning",
+    "subcategory": null,
+    "synonyms": []
+  },
+  {
+    "name": "Автомагнитола",
+    "slug": "avtomagnitola",
+    "categorySlug": "tuning",
+    "subcategory": null,
+    "synonyms": []
+  }
+]

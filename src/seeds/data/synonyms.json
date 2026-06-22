@@ -1,0 +1,329 @@
+[
+  {
+    "canonical": "аккумулятор",
+    "aliases": [
+      "аккум",
+      "акб",
+      "battery",
+      "akkum"
+    ],
+    "ambiguous": false,
+    "partTypeSlug": "akkumulyator"
+  },
+  {
+    "canonical": "тормозные колодки",
+    "aliases": [
+      "колодка",
+      "колодки"
+    ],
+    "ambiguous": false,
+    "partTypeSlug": "tormoznye-kolodki"
+  },
+  {
+    "canonical": "шаровая опора",
+    "aliases": [
+      "шаровой",
+      "шаровая"
+    ],
+    "ambiguous": false,
+    "partTypeSlug": "sharovaya-opora"
+  },
+  {
+    "canonical": "шрус",
+    "aliases": [
+      "граната",
+      "шрус наружный",
+      "шрус внутренний"
+    ],
+    "ambiguous": false,
+    "partTypeSlug": "shrus"
+  },
+  {
+    "canonical": "эбу",
+    "aliases": [
+      "мозги",
+      "блок управления",
+      "блок управления двигателем"
+    ],
+    "ambiguous": false,
+    "partTypeSlug": "ebu"
+  },
+  {
+    "canonical": "датчик кислорода",
+    "aliases": [
+      "лямбда",
+      "лямбда-зонд"
+    ],
+    "ambiguous": false,
+    "partTypeSlug": "datchik-kisloroda"
+  },
+  {
+    "canonical": "противотуманная фара",
+    "aliases": [
+      "туманка",
+      "птф"
+    ],
+    "ambiguous": false,
+    "partTypeSlug": "protivotumannaya-fara"
+  },
+  {
+    "canonical": "топливный насос",
+    "aliases": [
+      "бензонасос",
+      "электробензонасос"
+    ],
+    "ambiguous": false,
+    "partTypeSlug": "toplivnyy-nasos"
+  },
+  {
+    "canonical": "рулевая рейка",
+    "aliases": [
+      "рейка"
+    ],
+    "ambiguous": false,
+    "partTypeSlug": "rulevaya-reyka"
+  },
+  {
+    "canonical": "рулевой наконечник",
+    "aliases": [
+      "наконечник"
+    ],
+    "ambiguous": false,
+    "partTypeSlug": "rulevoy-nakonechnik"
+  },
+  {
+    "canonical": "рулевая тяга",
+    "aliases": [
+      "тяга"
+    ],
+    "ambiguous": false,
+    "partTypeSlug": "rulevaya-tyaga"
+  },
+  {
+    "canonical": "акпп",
+    "aliases": [
+      "автомат",
+      "автоматическая коробка"
+    ],
+    "ambiguous": false,
+    "partTypeSlug": "akpp"
+  },
+  {
+    "canonical": "мкпп",
+    "aliases": [
+      "механика",
+      "коробка механика"
+    ],
+    "ambiguous": false,
+    "partTypeSlug": "mkpp"
+  },
+  {
+    "canonical": "печка",
+    "aliases": [
+      "отопитель салона",
+      "отопитель"
+    ],
+    "ambiguous": false
+  },
+  {
+    "canonical": "кондиционер",
+    "aliases": [
+      "кондёр",
+      "кондей"
+    ],
+    "ambiguous": false
+  },
+  {
+    "canonical": "щётки дворников",
+    "aliases": [
+      "дворники",
+      "щётки стеклоочистителя"
+    ],
+    "ambiguous": false,
+    "partTypeSlug": "shchyotki-dvornikov"
+  },
+  {
+    "canonical": "амортизатор",
+    "aliases": [
+      "стойка",
+      "стойка амортизатора"
+    ],
+    "ambiguous": false
+  },
+  {
+    "canonical": "подушка двигателя",
+    "aliases": [
+      "подушка"
+    ],
+    "ambiguous": true,
+    "note": "podushka = dvigatel podushkasi yoki airbag",
+    "partTypeSlug": "podushka-dvigatelya"
+  },
+  {
+    "canonical": "тормозной диск",
+    "aliases": [
+      "диск",
+      "колёсный диск"
+    ],
+    "ambiguous": true,
+    "note": "disk = tormoz diski yoki g'ildirak diski",
+    "partTypeSlug": "disk"
+  },
+  {
+    "canonical": "масляный фильтр",
+    "aliases": [
+      "фильтр",
+      "воздушный фильтр",
+      "салонный фильтр",
+      "топливный фильтр"
+    ],
+    "ambiguous": true,
+    "note": "filtr turini aniqlash kerak",
+    "partTypeSlug": "maslyanyy-filtr"
+  },
+  {
+    "canonical": "фара",
+    "aliases": [
+      "передняя оптика",
+      "фара передняя"
+    ],
+    "ambiguous": false
+  },
+  {
+    "canonical": "задний фонарь",
+    "aliases": [
+      "фонарь",
+      "задняя оптика"
+    ],
+    "ambiguous": false
+  },
+  {
+    "canonical": "гидротрансформатор",
+    "aliases": [
+      "бублик",
+      "гидротрансформатор акпп"
+    ],
+    "ambiguous": false,
+    "partTypeSlug": "gidrotransformator"
+  },
+  {
+    "canonical": "роботизированная коробка",
+    "aliases": [
+      "робот",
+      "dsg"
+    ],
+    "ambiguous": false,
+    "partTypeSlug": "robotizirovannaya-korobka"
+  },
+  {
+    "canonical": "вариатор",
+    "aliases": [
+      "cvt"
+    ],
+    "ambiguous": false,
+    "partTypeSlug": "variator"
+  },
+  {
+    "canonical": "dpf фильтр",
+    "aliases": [
+      "сажевый",
+      "сажевый фильтр",
+      "dpf"
+    ],
+    "ambiguous": false,
+    "partTypeSlug": "dpf-filtr"
+  },
+  {
+    "canonical": "генератор",
+    "aliases": [
+      "гена"
+    ],
+    "ambiguous": false,
+    "partTypeSlug": "generator"
+  },
+  {
+    "canonical": "стартер",
+    "aliases": [
+      "стартёр"
+    ],
+    "ambiguous": false,
+    "partTypeSlug": "starter"
+  },
+  {
+    "canonical": "свеча зажигания",
+    "aliases": [
+      "свеча",
+      "свечи"
+    ],
+    "ambiguous": false,
+    "partTypeSlug": "svecha-zazhiganiya"
+  },
+  {
+    "canonical": "катушка зажигания",
+    "aliases": [
+      "катушка"
+    ],
+    "ambiguous": false,
+    "partTypeSlug": "katushka-zazhiganiya"
+  },
+  {
+    "canonical": "дроссельная заслонка",
+    "aliases": [
+      "дроссель"
+    ],
+    "ambiguous": false,
+    "partTypeSlug": "drosselnaya-zaslonka"
+  },
+  {
+    "canonical": "датчик расхода воздуха",
+    "aliases": [
+      "дмрв",
+      "maf",
+      "maf sensor"
+    ],
+    "ambiguous": false,
+    "partTypeSlug": "datchik-raskhoda-vozdukha"
+  },
+  {
+    "canonical": "датчик абсолютного давления",
+    "aliases": [
+      "map",
+      "map sensor"
+    ],
+    "ambiguous": false,
+    "partTypeSlug": "datchik-absolyutnogo-davleniya"
+  },
+  {
+    "canonical": "тнвд",
+    "aliases": [
+      "топливный насос высокого давления"
+    ],
+    "ambiguous": false,
+    "partTypeSlug": "tnvd"
+  },
+  {
+    "canonical": "турбина",
+    "aliases": [
+      "турбокомпрессор",
+      "турба"
+    ],
+    "ambiguous": false,
+    "partTypeSlug": "turbina"
+  },
+  {
+    "canonical": "интеркулер",
+    "aliases": [
+      "интеркуллер"
+    ],
+    "ambiguous": false,
+    "partTypeSlug": "interkuler"
+  },
+  {
+    "canonical": "датчик давления шин",
+    "aliases": [
+      "tpms"
+    ],
+    "ambiguous": false,
+    "partTypeSlug": "datchik-davleniya-shin"
+  }
+]

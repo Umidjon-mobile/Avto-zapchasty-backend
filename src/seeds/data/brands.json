@@ -1,0 +1,1018 @@
+[
+  {
+    "name": "Chevrolet",
+    "slug": "chevrolet",
+    "country": "USA/UZ",
+    "popular": true,
+    "order": 0,
+    "models": [
+      {
+        "name": "Cobalt",
+        "slug": "cobalt"
+      },
+      {
+        "name": "Nexia",
+        "slug": "nexia"
+      },
+      {
+        "name": "Nexia 2",
+        "slug": "nexia-2"
+      },
+      {
+        "name": "Nexia 3",
+        "slug": "nexia-3"
+      },
+      {
+        "name": "Gentra",
+        "slug": "gentra"
+      },
+      {
+        "name": "Spark",
+        "slug": "spark"
+      },
+      {
+        "name": "Matiz",
+        "slug": "matiz"
+      },
+      {
+        "name": "Malibu",
+        "slug": "malibu"
+      },
+      {
+        "name": "Malibu 2",
+        "slug": "malibu-2"
+      },
+      {
+        "name": "Lacetti",
+        "slug": "lacetti"
+      },
+      {
+        "name": "Captiva",
+        "slug": "captiva"
+      },
+      {
+        "name": "Damas",
+        "slug": "damas"
+      },
+      {
+        "name": "Labo",
+        "slug": "labo"
+      },
+      {
+        "name": "Onix",
+        "slug": "onix"
+      },
+      {
+        "name": "Tracker",
+        "slug": "tracker"
+      },
+      {
+        "name": "Tracker 2",
+        "slug": "tracker-2"
+      },
+      {
+        "name": "Equinox",
+        "slug": "equinox"
+      },
+      {
+        "name": "Monza",
+        "slug": "monza"
+      },
+      {
+        "name": "Trailblazer",
+        "slug": "trailblazer"
+      },
+      {
+        "name": "Tahoe",
+        "slug": "tahoe"
+      },
+      {
+        "name": "Orlando",
+        "slug": "orlando"
+      },
+      {
+        "name": "Epica",
+        "slug": "epica"
+      },
+      {
+        "name": "Aveo",
+        "slug": "aveo"
+      },
+      {
+        "name": "Cruze",
+        "slug": "cruze"
+      }
+    ]
+  },
+  {
+    "name": "Daewoo",
+    "slug": "daewoo",
+    "country": "Korea/UZ",
+    "popular": true,
+    "order": 1,
+    "models": [
+      {
+        "name": "Nexia",
+        "slug": "nexia"
+      },
+      {
+        "name": "Matiz",
+        "slug": "matiz"
+      },
+      {
+        "name": "Gentra",
+        "slug": "gentra"
+      },
+      {
+        "name": "Damas",
+        "slug": "damas"
+      },
+      {
+        "name": "Labo",
+        "slug": "labo"
+      },
+      {
+        "name": "Tico",
+        "slug": "tico"
+      },
+      {
+        "name": "Nubira",
+        "slug": "nubira"
+      },
+      {
+        "name": "Leganza",
+        "slug": "leganza"
+      }
+    ]
+  },
+  {
+    "name": "Ravon",
+    "slug": "ravon",
+    "country": "UZ",
+    "popular": true,
+    "order": 2,
+    "models": [
+      {
+        "name": "R2",
+        "slug": "r2"
+      },
+      {
+        "name": "R3",
+        "slug": "r3"
+      },
+      {
+        "name": "R4",
+        "slug": "r4"
+      },
+      {
+        "name": "Nexia R3",
+        "slug": "nexia-r3"
+      },
+      {
+        "name": "Gentra",
+        "slug": "gentra"
+      },
+      {
+        "name": "Matiz",
+        "slug": "matiz"
+      }
+    ]
+  },
+  {
+    "name": "Lada",
+    "slug": "lada",
+    "country": "Russia",
+    "popular": true,
+    "order": 3,
+    "models": [
+      {
+        "name": "2106",
+        "slug": "2106"
+      },
+      {
+        "name": "2107",
+        "slug": "2107"
+      },
+      {
+        "name": "Niva",
+        "slug": "niva"
+      },
+      {
+        "name": "Niva Travel",
+        "slug": "niva-travel"
+      },
+      {
+        "name": "Vesta",
+        "slug": "vesta"
+      },
+      {
+        "name": "Granta",
+        "slug": "granta"
+      },
+      {
+        "name": "Largus",
+        "slug": "largus"
+      },
+      {
+        "name": "Priora",
+        "slug": "priora"
+      },
+      {
+        "name": "Kalina",
+        "slug": "kalina"
+      },
+      {
+        "name": "Samara",
+        "slug": "samara"
+      }
+    ]
+  },
+  {
+    "name": "Toyota",
+    "slug": "toyota",
+    "country": "Japan",
+    "popular": true,
+    "order": 4,
+    "models": [
+      {
+        "name": "Camry",
+        "slug": "camry"
+      },
+      {
+        "name": "Corolla",
+        "slug": "corolla"
+      },
+      {
+        "name": "RAV4",
+        "slug": "rav4"
+      },
+      {
+        "name": "Land Cruiser",
+        "slug": "land-cruiser"
+      },
+      {
+        "name": "Land Cruiser Prado",
+        "slug": "land-cruiser-prado"
+      },
+      {
+        "name": "Highlander",
+        "slug": "highlander"
+      },
+      {
+        "name": "Avalon",
+        "slug": "avalon"
+      },
+      {
+        "name": "Venza",
+        "slug": "venza"
+      },
+      {
+        "name": "Fortuner",
+        "slug": "fortuner"
+      },
+      {
+        "name": "Hilux",
+        "slug": "hilux"
+      },
+      {
+        "name": "Sienna",
+        "slug": "sienna"
+      },
+      {
+        "name": "Yaris",
+        "slug": "yaris"
+      },
+      {
+        "name": "Vitz",
+        "slug": "vitz"
+      },
+      {
+        "name": "Corolla Cross",
+        "slug": "corolla-cross"
+      }
+    ]
+  },
+  {
+    "name": "Hyundai",
+    "slug": "hyundai",
+    "country": "Korea",
+    "popular": true,
+    "order": 5,
+    "models": [
+      {
+        "name": "Sonata",
+        "slug": "sonata"
+      },
+      {
+        "name": "Elantra",
+        "slug": "elantra"
+      },
+      {
+        "name": "Tucson",
+        "slug": "tucson"
+      },
+      {
+        "name": "Santa Fe",
+        "slug": "santa-fe"
+      },
+      {
+        "name": "Accent",
+        "slug": "accent"
+      },
+      {
+        "name": "Creta",
+        "slug": "creta"
+      },
+      {
+        "name": "Palisade",
+        "slug": "palisade"
+      },
+      {
+        "name": "Kona",
+        "slug": "kona"
+      },
+      {
+        "name": "Grandeur",
+        "slug": "grandeur"
+      },
+      {
+        "name": "Starex",
+        "slug": "starex"
+      },
+      {
+        "name": "Sonata DN8",
+        "slug": "sonata-dn8"
+      },
+      {
+        "name": "Avante",
+        "slug": "avante"
+      }
+    ]
+  },
+  {
+    "name": "Kia",
+    "slug": "kia",
+    "country": "Korea",
+    "popular": true,
+    "order": 6,
+    "models": [
+      {
+        "name": "K5",
+        "slug": "k5"
+      },
+      {
+        "name": "Optima",
+        "slug": "optima"
+      },
+      {
+        "name": "Sportage",
+        "slug": "sportage"
+      },
+      {
+        "name": "Sorento",
+        "slug": "sorento"
+      },
+      {
+        "name": "Cerato",
+        "slug": "cerato"
+      },
+      {
+        "name": "Rio",
+        "slug": "rio"
+      },
+      {
+        "name": "Seltos",
+        "slug": "seltos"
+      },
+      {
+        "name": "Carnival",
+        "slug": "carnival"
+      },
+      {
+        "name": "K900",
+        "slug": "k900"
+      },
+      {
+        "name": "Sonet",
+        "slug": "sonet"
+      },
+      {
+        "name": "K8",
+        "slug": "k8"
+      }
+    ]
+  },
+  {
+    "name": "BYD",
+    "slug": "byd",
+    "country": "China",
+    "popular": true,
+    "order": 7,
+    "models": [
+      {
+        "name": "Han",
+        "slug": "han"
+      },
+      {
+        "name": "Tang",
+        "slug": "tang"
+      },
+      {
+        "name": "Song",
+        "slug": "song"
+      },
+      {
+        "name": "Song Plus",
+        "slug": "song-plus"
+      },
+      {
+        "name": "Chazor",
+        "slug": "chazor"
+      },
+      {
+        "name": "Seal",
+        "slug": "seal"
+      },
+      {
+        "name": "Atto 3",
+        "slug": "atto-3"
+      },
+      {
+        "name": "Dolphin",
+        "slug": "dolphin"
+      },
+      {
+        "name": "Qin",
+        "slug": "qin"
+      }
+    ]
+  },
+  {
+    "name": "Nissan",
+    "slug": "nissan",
+    "country": "Japan",
+    "popular": false,
+    "order": 8,
+    "models": [
+      {
+        "name": "Almera",
+        "slug": "almera"
+      },
+      {
+        "name": "Sunny",
+        "slug": "sunny"
+      },
+      {
+        "name": "X-Trail",
+        "slug": "x-trail"
+      },
+      {
+        "name": "Qashqai",
+        "slug": "qashqai"
+      },
+      {
+        "name": "Patrol",
+        "slug": "patrol"
+      },
+      {
+        "name": "Murano",
+        "slug": "murano"
+      },
+      {
+        "name": "Teana",
+        "slug": "teana"
+      },
+      {
+        "name": "Pathfinder",
+        "slug": "pathfinder"
+      }
+    ]
+  },
+  {
+    "name": "Honda",
+    "slug": "honda",
+    "country": "Japan",
+    "popular": false,
+    "order": 9,
+    "models": [
+      {
+        "name": "Accord",
+        "slug": "accord"
+      },
+      {
+        "name": "Civic",
+        "slug": "civic"
+      },
+      {
+        "name": "CR-V",
+        "slug": "cr-v"
+      },
+      {
+        "name": "Pilot",
+        "slug": "pilot"
+      },
+      {
+        "name": "Odyssey",
+        "slug": "odyssey"
+      }
+    ]
+  },
+  {
+    "name": "Volkswagen",
+    "slug": "volkswagen",
+    "country": "Germany",
+    "popular": false,
+    "order": 10,
+    "models": [
+      {
+        "name": "Polo",
+        "slug": "polo"
+      },
+      {
+        "name": "Passat",
+        "slug": "passat"
+      },
+      {
+        "name": "Tiguan",
+        "slug": "tiguan"
+      },
+      {
+        "name": "Touareg",
+        "slug": "touareg"
+      },
+      {
+        "name": "Jetta",
+        "slug": "jetta"
+      },
+      {
+        "name": "Golf",
+        "slug": "golf"
+      }
+    ]
+  },
+  {
+    "name": "Tesla",
+    "slug": "tesla",
+    "country": "USA",
+    "popular": false,
+    "order": 11,
+    "models": [
+      {
+        "name": "Model 3",
+        "slug": "model-3"
+      },
+      {
+        "name": "Model Y",
+        "slug": "model-y"
+      },
+      {
+        "name": "Model S",
+        "slug": "model-s"
+      },
+      {
+        "name": "Model X",
+        "slug": "model-x"
+      }
+    ]
+  },
+  {
+    "name": "Lexus",
+    "slug": "lexus",
+    "country": "Japan",
+    "popular": false,
+    "order": 12,
+    "models": [
+      {
+        "name": "ES",
+        "slug": "es"
+      },
+      {
+        "name": "RX",
+        "slug": "rx"
+      },
+      {
+        "name": "LX",
+        "slug": "lx"
+      },
+      {
+        "name": "GX",
+        "slug": "gx"
+      },
+      {
+        "name": "NX",
+        "slug": "nx"
+      },
+      {
+        "name": "LS",
+        "slug": "ls"
+      }
+    ]
+  },
+  {
+    "name": "Mercedes-Benz",
+    "slug": "mercedes-benz",
+    "country": "Germany",
+    "popular": false,
+    "order": 13,
+    "models": [
+      {
+        "name": "C-Class",
+        "slug": "c-class"
+      },
+      {
+        "name": "E-Class",
+        "slug": "e-class"
+      },
+      {
+        "name": "S-Class",
+        "slug": "s-class"
+      },
+      {
+        "name": "GLE",
+        "slug": "gle"
+      },
+      {
+        "name": "GLC",
+        "slug": "glc"
+      },
+      {
+        "name": "GLS",
+        "slug": "gls"
+      },
+      {
+        "name": "G-Class",
+        "slug": "g-class"
+      },
+      {
+        "name": "Vito",
+        "slug": "vito"
+      },
+      {
+        "name": "Sprinter",
+        "slug": "sprinter"
+      }
+    ]
+  },
+  {
+    "name": "BMW",
+    "slug": "bmw",
+    "country": "Germany",
+    "popular": false,
+    "order": 14,
+    "models": [
+      {
+        "name": "3 Series",
+        "slug": "3-series"
+      },
+      {
+        "name": "5 Series",
+        "slug": "5-series"
+      },
+      {
+        "name": "7 Series",
+        "slug": "7-series"
+      },
+      {
+        "name": "X5",
+        "slug": "x5"
+      },
+      {
+        "name": "X6",
+        "slug": "x6"
+      },
+      {
+        "name": "X3",
+        "slug": "x3"
+      },
+      {
+        "name": "X7",
+        "slug": "x7"
+      }
+    ]
+  },
+  {
+    "name": "Mazda",
+    "slug": "mazda",
+    "country": "Japan",
+    "popular": false,
+    "order": 15,
+    "models": [
+      {
+        "name": "Mazda 3",
+        "slug": "mazda-3"
+      },
+      {
+        "name": "Mazda 6",
+        "slug": "mazda-6"
+      },
+      {
+        "name": "CX-5",
+        "slug": "cx-5"
+      },
+      {
+        "name": "CX-9",
+        "slug": "cx-9"
+      }
+    ]
+  },
+  {
+    "name": "Mitsubishi",
+    "slug": "mitsubishi",
+    "country": "Japan",
+    "popular": false,
+    "order": 16,
+    "models": [
+      {
+        "name": "Lancer",
+        "slug": "lancer"
+      },
+      {
+        "name": "Outlander",
+        "slug": "outlander"
+      },
+      {
+        "name": "Pajero",
+        "slug": "pajero"
+      },
+      {
+        "name": "ASX",
+        "slug": "asx"
+      },
+      {
+        "name": "Montero Sport",
+        "slug": "montero-sport"
+      }
+    ]
+  },
+  {
+    "name": "Ford",
+    "slug": "ford",
+    "country": "USA",
+    "popular": false,
+    "order": 17,
+    "models": [
+      {
+        "name": "Focus",
+        "slug": "focus"
+      },
+      {
+        "name": "Mondeo",
+        "slug": "mondeo"
+      },
+      {
+        "name": "Explorer",
+        "slug": "explorer"
+      },
+      {
+        "name": "Transit",
+        "slug": "transit"
+      },
+      {
+        "name": "Escape",
+        "slug": "escape"
+      }
+    ]
+  },
+  {
+    "name": "Chery",
+    "slug": "chery",
+    "country": "China",
+    "popular": false,
+    "order": 18,
+    "models": [
+      {
+        "name": "Tiggo 4",
+        "slug": "tiggo-4"
+      },
+      {
+        "name": "Tiggo 7",
+        "slug": "tiggo-7"
+      },
+      {
+        "name": "Tiggo 8",
+        "slug": "tiggo-8"
+      },
+      {
+        "name": "Arrizo",
+        "slug": "arrizo"
+      }
+    ]
+  },
+  {
+    "name": "Geely",
+    "slug": "geely",
+    "country": "China",
+    "popular": false,
+    "order": 19,
+    "models": [
+      {
+        "name": "Coolray",
+        "slug": "coolray"
+      },
+      {
+        "name": "Emgrand",
+        "slug": "emgrand"
+      },
+      {
+        "name": "Atlas",
+        "slug": "atlas"
+      },
+      {
+        "name": "Monjaro",
+        "slug": "monjaro"
+      }
+    ]
+  },
+  {
+    "name": "Changan",
+    "slug": "changan",
+    "country": "China",
+    "popular": false,
+    "order": 20,
+    "models": [
+      {
+        "name": "CS35",
+        "slug": "cs35"
+      },
+      {
+        "name": "CS55",
+        "slug": "cs55"
+      },
+      {
+        "name": "CS75",
+        "slug": "cs75"
+      },
+      {
+        "name": "Eado",
+        "slug": "eado"
+      },
+      {
+        "name": "UNI-K",
+        "slug": "uni-k"
+      },
+      {
+        "name": "UNI-T",
+        "slug": "uni-t"
+      }
+    ]
+  },
+  {
+    "name": "Renault",
+    "slug": "renault",
+    "country": "France",
+    "popular": false,
+    "order": 21,
+    "models": [
+      {
+        "name": "Logan",
+        "slug": "logan"
+      },
+      {
+        "name": "Sandero",
+        "slug": "sandero"
+      },
+      {
+        "name": "Duster",
+        "slug": "duster"
+      },
+      {
+        "name": "Megane",
+        "slug": "megane"
+      }
+    ]
+  },
+  {
+    "name": "Skoda",
+    "slug": "skoda",
+    "country": "Czech",
+    "popular": false,
+    "order": 22,
+    "models": [
+      {
+        "name": "Octavia",
+        "slug": "octavia"
+      },
+      {
+        "name": "Rapid",
+        "slug": "rapid"
+      },
+      {
+        "name": "Kodiaq",
+        "slug": "kodiaq"
+      },
+      {
+        "name": "Superb",
+        "slug": "superb"
+      }
+    ]
+  },
+  {
+    "name": "Audi",
+    "slug": "audi",
+    "country": "Germany",
+    "popular": false,
+    "order": 23,
+    "models": [
+      {
+        "name": "A4",
+        "slug": "a4"
+      },
+      {
+        "name": "A6",
+        "slug": "a6"
+      },
+      {
+        "name": "Q5",
+        "slug": "q5"
+      },
+      {
+        "name": "Q7",
+        "slug": "q7"
+      },
+      {
+        "name": "A8",
+        "slug": "a8"
+      }
+    ]
+  },
+  {
+    "name": "Opel",
+    "slug": "opel",
+    "country": "Germany",
+    "popular": false,
+    "order": 24,
+    "models": [
+      {
+        "name": "Astra",
+        "slug": "astra"
+      },
+      {
+        "name": "Insignia",
+        "slug": "insignia"
+      },
+      {
+        "name": "Mokka",
+        "slug": "mokka"
+      }
+    ]
+  },
+  {
+    "name": "SsangYong",
+    "slug": "ssangyong",
+    "country": "Korea",
+    "popular": false,
+    "order": 25,
+    "models": [
+      {
+        "name": "Rexton",
+        "slug": "rexton"
+      },
+      {
+        "name": "Korando",
+        "slug": "korando"
+      },
+      {
+        "name": "Tivoli",
+        "slug": "tivoli"
+      }
+    ]
+  },
+  {
+    "name": "GAZ",
+    "slug": "gaz",
+    "country": "Russia",
+    "popular": false,
+    "order": 26,
+    "models": [
+      {
+        "name": "Gazelle",
+        "slug": "gazelle"
+      },
+      {
+        "name": "Sobol",
+        "slug": "sobol"
+      },
+      {
+        "name": "Next",
+        "slug": "next"
+      }
+    ]
+  },
+  {
+    "name": "ZAZ",
+    "slug": "zaz",
+    "country": "Ukraine",
+    "popular": false,
+    "order": 27,
+    "models": [
+      {
+        "name": "Chance",
+        "slug": "chance"
+      },
+      {
+        "name": "Sens",
+        "slug": "sens"
+      }
+    ]
+  }
+]

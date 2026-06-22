@@ -1,0 +1,308 @@
+[
+  {
+    "order": 1,
+    "slug": "body",
+    "name": {
+      "ru": "Кузов",
+      "uz": "Kuzov"
+    },
+    "icon": "car"
+  },
+  {
+    "order": 2,
+    "slug": "doors",
+    "name": {
+      "ru": "Двери, замки, ручки",
+      "uz": "Eshiklar, qulflar, dastalar"
+    },
+    "icon": "door"
+  },
+  {
+    "order": 3,
+    "slug": "trunk",
+    "name": {
+      "ru": "Багажник",
+      "uz": "Bagajnik"
+    },
+    "icon": "package"
+  },
+  {
+    "order": 4,
+    "slug": "lights",
+    "name": {
+      "ru": "Оптика",
+      "uz": "Optika (faralar)"
+    },
+    "icon": "lightbulb"
+  },
+  {
+    "order": 5,
+    "slug": "glass-mirrors",
+    "name": {
+      "ru": "Стёкла и зеркала",
+      "uz": "Oynalar va ko'zgular"
+    },
+    "icon": "window"
+  },
+  {
+    "order": 6,
+    "slug": "wipers",
+    "name": {
+      "ru": "Дворники и омыватель",
+      "uz": "Tozalagichlar va yuvgich"
+    },
+    "icon": "droplet"
+  },
+  {
+    "order": 7,
+    "slug": "suspension",
+    "name": {
+      "ru": "Ходовая часть",
+      "uz": "Yurish qismi"
+    },
+    "icon": "wrench"
+  },
+  {
+    "order": 8,
+    "slug": "steering",
+    "name": {
+      "ru": "Рулевое управление",
+      "uz": "Rul boshqaruvi"
+    },
+    "icon": "navigation"
+  },
+  {
+    "order": 9,
+    "slug": "brakes",
+    "name": {
+      "ru": "Тормозная система",
+      "uz": "Tormoz tizimi"
+    },
+    "icon": "disc"
+  },
+  {
+    "order": 10,
+    "slug": "engine",
+    "name": {
+      "ru": "Двигатель",
+      "uz": "Dvigatel"
+    },
+    "icon": "engine"
+  },
+  {
+    "order": 11,
+    "slug": "ignition",
+    "name": {
+      "ru": "Система зажигания",
+      "uz": "Ot oldirish tizimi"
+    },
+    "icon": "zap"
+  },
+  {
+    "order": 12,
+    "slug": "fuel-system",
+    "name": {
+      "ru": "Топливная система",
+      "uz": "Yoqilg'i tizimi"
+    },
+    "icon": "fuel"
+  },
+  {
+    "order": 13,
+    "slug": "intake",
+    "name": {
+      "ru": "Воздушная система и впуск",
+      "uz": "Havo tizimi va so'rish"
+    },
+    "icon": "wind"
+  },
+  {
+    "order": 14,
+    "slug": "exhaust",
+    "name": {
+      "ru": "Выхлопная система",
+      "uz": "Chiqindi tizimi"
+    },
+    "icon": "smoke"
+  },
+  {
+    "order": 15,
+    "slug": "cooling",
+    "name": {
+      "ru": "Система охлаждения",
+      "uz": "Sovutish tizimi"
+    },
+    "icon": "thermometer"
+  },
+  {
+    "order": 16,
+    "slug": "filters",
+    "name": {
+      "ru": "Фильтры",
+      "uz": "Filtrlar"
+    },
+    "icon": "filter"
+  },
+  {
+    "order": 17,
+    "slug": "transmission",
+    "name": {
+      "ru": "Коробка передач",
+      "uz": "Uzatmalar qutisi"
+    },
+    "icon": "settings"
+  },
+  {
+    "order": 18,
+    "slug": "drivetrain",
+    "name": {
+      "ru": "Привод и трансмиссия",
+      "uz": "Privod va transmissiya"
+    },
+    "icon": "git-merge"
+  },
+  {
+    "order": 19,
+    "slug": "electrical",
+    "name": {
+      "ru": "Электрика",
+      "uz": "Elektr qismi"
+    },
+    "icon": "zap"
+  },
+  {
+    "order": 20,
+    "slug": "sensors",
+    "name": {
+      "ru": "Датчики",
+      "uz": "Datchiklar"
+    },
+    "icon": "radio"
+  },
+  {
+    "order": 21,
+    "slug": "climate",
+    "name": {
+      "ru": "Кондиционер и печка",
+      "uz": "Konditsioner va pechka"
+    },
+    "icon": "snowflake"
+  },
+  {
+    "order": 22,
+    "slug": "interior",
+    "name": {
+      "ru": "Салон",
+      "uz": "Salon"
+    },
+    "icon": "layout"
+  },
+  {
+    "order": 23,
+    "slug": "safety",
+    "name": {
+      "ru": "Безопасность",
+      "uz": "Xavfsizlik"
+    },
+    "icon": "shield"
+  },
+  {
+    "order": 24,
+    "slug": "wheels-tires",
+    "name": {
+      "ru": "Колёса и шины",
+      "uz": "G'ildiraklar va shinalar"
+    },
+    "icon": "circle"
+  },
+  {
+    "order": 25,
+    "slug": "oils-fluids",
+    "name": {
+      "ru": "Масла, жидкости, химия",
+      "uz": "Moylar, suyuqliklar, kimyo"
+    },
+    "icon": "beaker"
+  },
+  {
+    "order": 26,
+    "slug": "consumables",
+    "name": {
+      "ru": "Расходники",
+      "uz": "Sarflanuvchi qismlar"
+    },
+    "icon": "repeat"
+  },
+  {
+    "order": 27,
+    "slug": "diesel",
+    "name": {
+      "ru": "Дизельные запчасти",
+      "uz": "Dizel ehtiyot qismlari"
+    },
+    "icon": "fuel"
+  },
+  {
+    "order": 28,
+    "slug": "hybrid",
+    "name": {
+      "ru": "Гибридные запчасти",
+      "uz": "Gibrid ehtiyot qismlari"
+    },
+    "icon": "battery-charging"
+  },
+  {
+    "order": 29,
+    "slug": "electric-vehicle",
+    "name": {
+      "ru": "Электромобиль",
+      "uz": "Elektromobil"
+    },
+    "icon": "plug"
+  },
+  {
+    "order": 30,
+    "slug": "turbo",
+    "name": {
+      "ru": "Турбина и наддув",
+      "uz": "Turbina va nadduv"
+    },
+    "icon": "gauge"
+  },
+  {
+    "order": 31,
+    "slug": "adas",
+    "name": {
+      "ru": "Система помощи водителю",
+      "uz": "Haydovchiga yordam tizimi"
+    },
+    "icon": "scan"
+  },
+  {
+    "order": 32,
+    "slug": "audio",
+    "name": {
+      "ru": "Аудио и мультимедиа",
+      "uz": "Audio va multimedia"
+    },
+    "icon": "speaker"
+  },
+  {
+    "order": 33,
+    "slug": "fasteners",
+    "name": {
+      "ru": "Крепёж и мелочёвка",
+      "uz": "Mahkamlagichlar va mayda qismlar"
+    },
+    "icon": "link"
+  },
+  {
+    "order": 34,
+    "slug": "tuning",
+    "name": {
+      "ru": "Тюнинг и аксессуары",
+      "uz": "Tюning va aksessuarlar"
+    },
+    "icon": "sparkles"
+  }
+]
