@@ -27,10 +27,23 @@ const getEngines = asyncHandler(async (req, res) => {
   res.json({ engines });
 });
 
-// GET /catalog/categories
+// GET /catalog/categories  — faqat Level 1 (bosh ekran uchun)
 const getCategories = asyncHandler(async (req, res) => {
-  const categories = await PartCategory.find().sort({ order: 1 }).lean();
+  const categories = await PartCategory.find({ level: 1, hidden: { $ne: true } })
+    .sort({ order: 1 })
+    .lean();
   res.json({ categories });
+});
+
+// GET /catalog/categories/:id/subcategories  — Level 2 bolalar
+const getSubcategories = asyncHandler(async (req, res) => {
+  const subcategories = await PartCategory.find({
+    parentId: req.params.id,
+    hidden: { $ne: true },
+  })
+    .sort({ order: 1 })
+    .lean();
+  res.json({ subcategories });
 });
 
 // GET /catalog/categories/:id/part-types
@@ -47,5 +60,5 @@ const getCities = asyncHandler(async (req, res) => {
 
 module.exports = {
   getBrands, getModels, getGenerations, getEngines,
-  getCategories, getPartTypesByCategory, getCities,
+  getCategories, getSubcategories, getPartTypesByCategory, getCities,
 };

@@ -22,13 +22,37 @@ async function run() {
     console.log('🧹 Katalog kolleksiyalari tozalandi');
   }
 
-  // 1. Kategoriyalar
+  // 1. Kategoriyalar — avval Level 1, keyin Level 2 (parentId kerak)
   const categories = load('categories.json');
-  await PartCategory.bulkWrite(categories.map((c) => ({
-    updateOne: { filter: { slug: c.slug }, update: { $set: { name: c.name, icon: c.icon, order: c.order } }, upsert: true },
+  const level1 = categories.filter((c) => !c.parentSlug);
+  const level2 = categories.filter((c) => !!c.parentSlug);
+
+  // Level 1 ni yaratamiz
+  await PartCategory.bulkWrite(level1.map((c) => ({
+    updateOne: {
+      filter: { slug: c.slug },
+      update: { $set: { name: c.name, icon: c.icon, order: c.order, level: 1, parentId: null } },
+      upsert: true,
+    },
   })));
+
+  // parentSlug → parentId xaritasi
   const catDocs = await PartCategory.find({}, { slug: 1 }).lean();
   const catMap = new Map(catDocs.map((c) => [c.slug, c._id]));
+
+  // Level 2 ni yaratamiz (parentId bilan)
+  if (level2.length) {
+    await PartCategory.bulkWrite(level2.map((c) => ({
+      updateOne: {
+        filter: { slug: c.slug },
+        update: { $set: { name: c.name, icon: c.icon, order: c.order, level: 2, parentId: catMap.get(c.parentSlug) || null } },
+        upsert: true,
+      },
+    })));
+    // catMap ni yangilaymiz (level 2 lar ham kerak bo'ladi)
+    const allCatDocs = await PartCategory.find({}, { slug: 1 }).lean();
+    allCatDocs.forEach((c) => catMap.set(c.slug, c._id));
+  }
   console.log(`📁 Kategoriyalar: ${categories.length}`);
 
   // 2. Detal turlari

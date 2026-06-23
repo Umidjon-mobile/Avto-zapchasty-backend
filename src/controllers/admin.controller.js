@@ -152,6 +152,19 @@ const analytics = asyncHandler(async (req, res) => {
 });
 
 // ---------- Katalog ro'yxatlari (GET) — admin boshqaruvi uchun ----------
+
+// GET /admin/categories?level=&parentId=
+const listCategories = asyncHandler(async (req, res) => {
+  const filter = {};
+  if (req.query.level) filter.level = Number(req.query.level);
+  if (req.query.parentId) filter.parentId = req.query.parentId;
+  const items = await PartCategory.find(filter)
+    .sort({ level: 1, order: 1 })
+    .populate('parentId', 'name slug')
+    .lean();
+  res.json({ items });
+});
+
 // GET /admin/synonyms?q=&page=
 const listSynonyms = asyncHandler(async (req, res) => {
   const page = Number(req.query.page) || 1;
@@ -255,7 +268,7 @@ const broadcastNotification = asyncHandler(async (req, res) => {
 module.exports = {
   brands, models, generations, engines, categories, partTypes, synonyms, cities,
   listListings, moderateListing, listUsers, updateUser, analytics,
-  listSynonyms, listPartTypes,
+  listCategories, listSynonyms, listPartTypes,
   listReports, resolveReport,
   broadcastNotification,
 };

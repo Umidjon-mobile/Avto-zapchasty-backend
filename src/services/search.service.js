@@ -1,4 +1,4 @@
-const { Synonym, PartType, Listing } = require('../models');
+const { Synonym, PartType, Listing, PartCategory } = require('../models');
 const { escapeRegex } = require('../utils/crypto');
 
 const norm = (s) => (s || '').trim().toLowerCase().replace(/\s+/g, ' ');
@@ -38,7 +38,16 @@ async function searchListings(params) {
   } = params;
 
   const filter = { status: 'active' };
-  if (categoryId) filter.categoryId = categoryId;
+  if (categoryId) {
+    const cat = await PartCategory.findById(categoryId, { level: 1 }).lean();
+    if (cat && cat.level === 1) {
+      const children = await PartCategory.find({ parentId: categoryId }, { _id: 1 }).lean();
+      const ids = children.map((c) => c._id);
+      filter.categoryId = ids.length ? { $in: ids } : categoryId;
+    } else {
+      filter.categoryId = categoryId;
+    }
+  }
   if (brandId) filter['fitment.brandId'] = brandId;
   if (modelId) filter['fitment.modelId'] = modelId;
   if (condition) filter.condition = condition;

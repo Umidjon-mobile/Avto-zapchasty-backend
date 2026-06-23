@@ -10,6 +10,14 @@ const partCategorySchema = new mongoose.Schema(
     slug: { type: String, required: true, unique: true, index: true },
     icon: { type: String, default: 'package' },
     order: { type: Number, default: 100 },
+    parentId: {
+      type: mongoose.Schema.Types.ObjectId,
+      ref: 'PartCategory',
+      default: null,
+      index: true,
+    },
+    level: { type: Number, default: 1 }, // 1 = main, 2 = subcategory
+    hidden: { type: Boolean, default: false },
   },
   { timestamps: true }
 );

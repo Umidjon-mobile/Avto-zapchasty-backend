@@ -18,6 +18,7 @@ router.patch('/users/:id', c.updateUser);
 router.get('/analytics', c.analytics);
 
 // Katalog ro'yxatlari (GET)
+router.get('/categories', c.listCategories);
 router.get('/synonyms', c.listSynonyms);
 router.get('/part-types', c.listPartTypes);
 
