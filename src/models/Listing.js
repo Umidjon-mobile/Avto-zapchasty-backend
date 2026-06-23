@@ -65,6 +65,7 @@ const listingSchema = new mongoose.Schema(
     favoritesCount: { type: Number, default: 0 },
 
     searchText: { type: String, default: '' }, // service tomonidan to'ldiriladi
+    scheduledActivateAt: { type: Date, default: null, index: true },
   },
   { timestamps: true }
 );

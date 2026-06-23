@@ -59,13 +59,12 @@ const create = asyncHandler(async (req, res) => {
   res.status(201).json({ listing });
 });
 
-// PATCH /listings/:id
+// PATCH /listings/:id  (faqat admin tahrir qila oladi, sotuvchi qila olmaydi)
 const update = asyncHandler(async (req, res) => {
   const listing = await Listing.findById(req.params.id);
   if (!listing) throw ApiError.notFound("E'lon topilmadi");
-  const isOwner = listing.sellerId.toString() === req.user.id;
   const isAdmin = ['admin', 'superadmin'].includes(req.user.role);
-  if (!isOwner && !isAdmin) throw ApiError.forbidden();
+  if (!isAdmin) throw ApiError.forbidden("E'lon joylangandan keyin tahrirlab bo'lmaydi");
 
   const updated = await listingService.updateListing(listing, req.body);
   res.json({ listing: updated });

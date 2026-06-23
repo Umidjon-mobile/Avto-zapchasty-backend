@@ -1,5 +1,25 @@
 const { PartType, Listing } = require('../models');
 const { normalizeOem } = require('../utils/crypto');
+const { notifyUser } = require('./push.service');
+
+const AUTO_ACTIVATE_MS = 2 * 60 * 1000; // 2 daqiqa
+
+async function autoActivateListing(listingId, sellerId, title) {
+  try {
+    const listing = await Listing.findById(listingId);
+    if (listing && listing.status === 'pending') {
+      listing.status = 'active';
+      await listing.save();
+      notifyUser(sellerId, {
+        title: "E'loningiz faollashtirildi ✅",
+        body: title,
+        data: { type: 'listing_approved', listingId: String(listingId) },
+      }).catch(() => {});
+    }
+  } catch (e) {
+    console.error('[auto-activate] Xatolik:', e.message);
+  }
+}
 
 const norm = (s) => (s || '').trim().toLowerCase().replace(/\s+/g, ' ');
 
@@ -29,6 +49,7 @@ async function createListing(sellerId, data) {
   if (!pt) throw Object.assign(new Error('Detal turi topilmadi'), { statusCode: 400 });
 
   const searchText = await buildSearchText(data);
+  const scheduledActivateAt = new Date(Date.now() + AUTO_ACTIVATE_MS);
 
   const listing = new Listing({
     ...data,
@@ -36,9 +57,14 @@ async function createListing(sellerId, data) {
     categoryId: pt.categoryId,
     oemNormalized: (data.oemNumbers || []).map(normalizeOem).filter(Boolean),
     searchText,
-    status: 'pending', // moderatsiyaga
+    status: 'pending',
+    scheduledActivateAt,
   });
   await listing.save();
+
+  // 2 daqiqadan keyin avtomatik faollashtirish
+  setTimeout(() => autoActivateListing(listing._id, sellerId, listing.title), AUTO_ACTIVATE_MS);
+
   return listing;
 }
 
@@ -62,4 +88,4 @@ async function updateListing(listing, data) {
   return listing;
 }
 
-module.exports = { createListing, updateListing, buildSearchText, norm };
+module.exports = { createListing, updateListing, buildSearchText, norm, AUTO_ACTIVATE_MS };
