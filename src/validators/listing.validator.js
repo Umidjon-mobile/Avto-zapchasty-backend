@@ -44,6 +44,7 @@ const update = create.partial();
 const listQuery = z.object({
   q: z.string().optional(),
   categoryId: objectId.optional(),
+  partTypeId: objectId.optional(),
   brandId: objectId.optional(),
   modelId: objectId.optional(),
   condition: z.enum(['new', 'used', 'contract', 'original', 'duplicate']).optional(),

@@ -33,7 +33,7 @@ const SORT_MAP = {
 // Asosiy qidiruv
 async function searchListings(params) {
   const {
-    q, categoryId, brandId, modelId, condition, city,
+    q, categoryId, partTypeId, brandId, modelId, condition, city,
     minPrice, maxPrice, sort, page = 1, limit = 20,
   } = params;
 
@@ -48,6 +48,7 @@ async function searchListings(params) {
       filter.categoryId = categoryId;
     }
   }
+  if (partTypeId) filter.partTypeId = partTypeId;
   if (brandId) filter['fitment.brandId'] = brandId;
   if (modelId) filter['fitment.modelId'] = modelId;
   if (condition) filter.condition = condition;
