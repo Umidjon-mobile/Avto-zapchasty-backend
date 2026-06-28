@@ -63,16 +63,11 @@ async function searchListings(params) {
 
   if (q && q.trim()) {
     const raw = q.trim();
-    if (looksLikeOem(raw)) {
-      // OEM bo'yicha aniq/prefiks qidiruv (separatorlarsiz, katta harf)
-      const oemq = raw.replace(/[^a-z0-9]/gi, '').toUpperCase();
-      filter.oemNormalized = { $elemMatch: { $regex: '^' + escapeRegex(oemq) } };
-    } else {
-      // Sinonim kengaytirilgan full-text qidiruv
-      const expanded = await expandTerms(raw);
-      filter.$text = { $search: expanded.join(' ') };
-      useTextScore = true;
-    }
+    // Faqat ehtiyot qism nomi bo'yicha qidiruv (OEM bo'yicha qidiruv o'chirilgan).
+    // Sinonim lug'ati bilan kengaytirilgan full-text qidiruv.
+    const expanded = await expandTerms(raw);
+    filter.$text = { $search: expanded.join(' ') };
+    useTextScore = true;
   }
 
   const skip = (page - 1) * limit;
